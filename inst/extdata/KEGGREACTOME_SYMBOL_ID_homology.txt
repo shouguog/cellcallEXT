@@ -1,0 +1,1984 @@
+hsa01100	Metabolic pathways	Metabolism	Global and overview maps
+hsa01200	Carbon metabolism	Metabolism	Global and overview maps
+hsa01210	2-Oxocarboxylic acid metabolism	Metabolism	Global and overview maps
+hsa01212	Fatty acid metabolism	Metabolism	Global and overview maps
+hsa01230	Biosynthesis of amino acids	Metabolism	Global and overview maps
+hsa00010	Glycolysis / Gluconeogenesis	Metabolism	Carbohydrate metabolism
+hsa00020	Citrate cycle (TCA cycle)	Metabolism	Carbohydrate metabolism
+hsa00030	Pentose phosphate pathway	Metabolism	Carbohydrate metabolism
+hsa00040	Pentose and glucuronate interconversions	Metabolism	Carbohydrate metabolism
+hsa00051	Fructose and mannose metabolism	Metabolism	Carbohydrate metabolism
+hsa00052	Galactose metabolism	Metabolism	Carbohydrate metabolism
+hsa00053	Ascorbate and aldarate metabolism	Metabolism	Carbohydrate metabolism
+hsa00500	Starch and sucrose metabolism	Metabolism	Carbohydrate metabolism
+hsa00520	Amino sugar and nucleotide sugar metabolism	Metabolism	Carbohydrate metabolism
+hsa00620	Pyruvate metabolism	Metabolism	Carbohydrate metabolism
+hsa00630	Glyoxylate and dicarboxylate metabolism	Metabolism	Carbohydrate metabolism
+hsa00640	Propanoate metabolism	Metabolism	Carbohydrate metabolism
+hsa00650	Butanoate metabolism	Metabolism	Carbohydrate metabolism
+hsa00562	Inositol phosphate metabolism	Metabolism	Carbohydrate metabolism
+hsa00190	Oxidative phosphorylation	Metabolism	Energy metabolism
+hsa00910	Nitrogen metabolism	Metabolism	Energy metabolism
+hsa00920	Sulfur metabolism	Metabolism	Energy metabolism
+hsa00061	Fatty acid biosynthesis	Metabolism	Lipid metabolism
+hsa00062	Fatty acid elongation	Metabolism	Lipid metabolism
+hsa00071	Fatty acid degradation	Metabolism	Lipid metabolism
+hsa00072	Synthesis and degradation of ketone bodies	Metabolism	Lipid metabolism
+hsa00100	Steroid biosynthesis	Metabolism	Lipid metabolism
+hsa00120	Primary bile acid biosynthesis	Metabolism	Lipid metabolism
+hsa00140	Steroid hormone biosynthesis	Metabolism	Lipid metabolism
+hsa00561	Glycerolipid metabolism	Metabolism	Lipid metabolism
+hsa00564	Glycerophospholipid metabolism	Metabolism	Lipid metabolism
+hsa00565	Ether lipid metabolism	Metabolism	Lipid metabolism
+hsa00600	Sphingolipid metabolism	Metabolism	Lipid metabolism
+hsa00590	Arachidonic acid metabolism	Metabolism	Lipid metabolism
+hsa00591	Linoleic acid metabolism	Metabolism	Lipid metabolism
+hsa00592	alpha-Linolenic acid metabolism	Metabolism	Lipid metabolism
+hsa01040	Biosynthesis of unsaturated fatty acids	Metabolism	Lipid metabolism
+hsa00230	Purine metabolism	Metabolism	Nucleotide metabolism
+hsa00240	Pyrimidine metabolism	Metabolism	Nucleotide metabolism
+hsa00250	"Alanine, aspartate and glutamate metabolism"	Metabolism	Amino acid metabolism
+hsa00260	"Glycine, serine and threonine metabolism"	Metabolism	Amino acid metabolism
+hsa00270	Cysteine and methionine metabolism	Metabolism	Amino acid metabolism
+hsa00280	"Valine, leucine and isoleucine degradation"	Metabolism	Amino acid metabolism
+hsa00290	"Valine, leucine and isoleucine biosynthesis"	Metabolism	Amino acid metabolism
+hsa00310	Lysine degradation	Metabolism	Amino acid metabolism
+hsa00220	Arginine biosynthesis	Metabolism	Amino acid metabolism
+hsa00330	Arginine and proline metabolism	Metabolism	Amino acid metabolism
+hsa00340	Histidine metabolism	Metabolism	Amino acid metabolism
+hsa00350	Tyrosine metabolism	Metabolism	Amino acid metabolism
+hsa00360	Phenylalanine metabolism	Metabolism	Amino acid metabolism
+hsa00380	Tryptophan metabolism	Metabolism	Amino acid metabolism
+hsa00400	"Phenylalanine, tyrosine and tryptophan biosynthesis"	Metabolism	Amino acid metabolism
+hsa00410	beta-Alanine metabolism	Metabolism	Metabolism of other amino acids
+hsa00430	Taurine and hypotaurine metabolism	Metabolism	Metabolism of other amino acids
+hsa00440	Phosphonate and phosphinate metabolism	Metabolism	Metabolism of other amino acids
+hsa00450	Selenocompound metabolism	Metabolism	Metabolism of other amino acids
+hsa00471	D-Glutamine and D-glutamate metabolism	Metabolism	Metabolism of other amino acids
+hsa00472	D-Arginine and D-ornithine metabolism	Metabolism	Metabolism of other amino acids
+hsa00480	Glutathione metabolism	Metabolism	Metabolism of other amino acids
+hsa00510	N-Glycan biosynthesis	Metabolism	Glycan biosynthesis and metabolism
+hsa00513	Various types of N-glycan biosynthesis	Metabolism	Glycan biosynthesis and metabolism
+hsa00512	Mucin type O-glycan biosynthesis	Metabolism	Glycan biosynthesis and metabolism
+hsa00515	Mannose type O-glycan biosynthesis	Metabolism	Glycan biosynthesis and metabolism
+hsa00514	Other types of O-glycan biosynthesis	Metabolism	Glycan biosynthesis and metabolism
+hsa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	Metabolism	Glycan biosynthesis and metabolism
+hsa00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	Metabolism	Glycan biosynthesis and metabolism
+hsa00533	Glycosaminoglycan biosynthesis - keratan sulfate	Metabolism	Glycan biosynthesis and metabolism
+hsa00531	Glycosaminoglycan degradation	Metabolism	Glycan biosynthesis and metabolism
+hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	Metabolism	Glycan biosynthesis and metabolism
+hsa00601	Glycosphingolipid biosynthesis - lacto and neolacto series	Metabolism	Glycan biosynthesis and metabolism
+hsa00603	Glycosphingolipid biosynthesis - globo and isoglobo series	Metabolism	Glycan biosynthesis and metabolism
+hsa00604	Glycosphingolipid biosynthesis - ganglio series	Metabolism	Glycan biosynthesis and metabolism
+hsa00511	Other glycan degradation	Metabolism	Glycan biosynthesis and metabolism
+hsa00730	Thiamine metabolism	Metabolism	Metabolism of cofactors and vitamins
+hsa00740	Riboflavin metabolism	Metabolism	Metabolism of cofactors and vitamins
+hsa00750	Vitamin B6 metabolism	Metabolism	Metabolism of cofactors and vitamins
+hsa00760	Nicotinate and nicotinamide metabolism	Metabolism	Metabolism of cofactors and vitamins
+hsa00770	Pantothenate and CoA biosynthesis	Metabolism	Metabolism of cofactors and vitamins
+hsa00780	Biotin metabolism	Metabolism	Metabolism of cofactors and vitamins
+hsa00785	Lipoic acid metabolism	Metabolism	Metabolism of cofactors and vitamins
+hsa00790	Folate biosynthesis	Metabolism	Metabolism of cofactors and vitamins
+hsa00670	One carbon pool by folate	Metabolism	Metabolism of cofactors and vitamins
+hsa00830	Retinol metabolism	Metabolism	Metabolism of cofactors and vitamins
+hsa00860	Porphyrin and chlorophyll metabolism	Metabolism	Metabolism of cofactors and vitamins
+hsa00130	Ubiquinone and other terpenoid-quinone biosynthesis	Metabolism	Metabolism of cofactors and vitamins
+hsa00900	Terpenoid backbone biosynthesis	Metabolism	Metabolism of terpenoids and polyketides
+hsa00232	Caffeine metabolism	Metabolism	Biosynthesis of other secondary metabolites
+hsa00524	"Neomycin, kanamycin and gentamicin biosynthesis"	Metabolism	Biosynthesis of other secondary metabolites
+hsa00980	Metabolism of xenobiotics by cytochrome P450	Metabolism	Xenobiotics biodegradation and metabolism
+hsa00982	Drug metabolism - cytochrome P450	Metabolism	Xenobiotics biodegradation and metabolism
+hsa00983	Drug metabolism - other enzymes	Metabolism	Xenobiotics biodegradation and metabolism
+hsa03020	RNA polymerase	Genetic Information Processing	Transcription
+hsa03022	Basal transcription factors	Genetic Information Processing	Transcription
+hsa03040	Spliceosome	Genetic Information Processing	Transcription
+hsa03010	Ribosome	Genetic Information Processing	Translation
+hsa00970	Aminoacyl-tRNA biosynthesis	Genetic Information Processing	Translation
+hsa03013	RNA transport	Genetic Information Processing	Translation
+hsa03015	mRNA surveillance pathway	Genetic Information Processing	Translation
+hsa03008	Ribosome biogenesis in eukaryotes	Genetic Information Processing	Translation
+hsa03060	Protein export	Genetic Information Processing	"Folding, sorting and degradation"
+hsa04141	Protein processing in endoplasmic reticulum	Genetic Information Processing	"Folding, sorting and degradation"
+hsa04130	SNARE interactions in vesicular transport	Genetic Information Processing	"Folding, sorting and degradation"
+hsa04120	Ubiquitin mediated proteolysis	Genetic Information Processing	"Folding, sorting and degradation"
+hsa04122	Sulfur relay system	Genetic Information Processing	"Folding, sorting and degradation"
+hsa03050	Proteasome	Genetic Information Processing	"Folding, sorting and degradation"
+hsa03018	RNA degradation	Genetic Information Processing	"Folding, sorting and degradation"
+hsa03030	DNA replication	Genetic Information Processing	Replication and repair
+hsa03410	Base excision repair	Genetic Information Processing	Replication and repair
+hsa03420	Nucleotide excision repair	Genetic Information Processing	Replication and repair
+hsa03430	Mismatch repair	Genetic Information Processing	Replication and repair
+hsa03440	Homologous recombination	Genetic Information Processing	Replication and repair
+hsa03450	Non-homologous end-joining	Genetic Information Processing	Replication and repair
+hsa03460	Fanconi anemia pathway	Genetic Information Processing	Replication and repair
+hsa02010	ABC transporters	Environmental Information Processing	Membrane transport
+hsa04014	Ras signaling pathway	Environmental Information Processing	Signal transduction
+hsa04015	Rap1 signaling pathway	Environmental Information Processing	Signal transduction
+hsa04010	MAPK signaling pathway	Environmental Information Processing	Signal transduction
+hsa04012	ErbB signaling pathway	Environmental Information Processing	Signal transduction
+hsa04310	Wnt signaling pathway	Environmental Information Processing	Signal transduction
+hsa04330	Notch signaling pathway	Environmental Information Processing	Signal transduction
+hsa04340	Hedgehog signaling pathway	Environmental Information Processing	Signal transduction
+hsa04350	TGF-beta signaling pathway	Environmental Information Processing	Signal transduction
+hsa04390	Hippo signaling pathway	Environmental Information Processing	Signal transduction
+hsa04392	Hippo signaling pathway - multiple species	Environmental Information Processing	Signal transduction
+hsa04370	VEGF signaling pathway	Environmental Information Processing	Signal transduction
+hsa04371	Apelin signaling pathway	Environmental Information Processing	Signal transduction
+hsa04630	Jak-STAT signaling pathway	Environmental Information Processing	Signal transduction
+hsa04064	NF-kappa B signaling pathway	Environmental Information Processing	Signal transduction
+hsa04668	TNF signaling pathway	Environmental Information Processing	Signal transduction
+hsa04066	HIF-1 signaling pathway	Environmental Information Processing	Signal transduction
+hsa04068	FoxO signaling pathway	Environmental Information Processing	Signal transduction
+hsa04020	Calcium signaling pathway	Environmental Information Processing	Signal transduction
+hsa04070	Phosphatidylinositol signaling system	Environmental Information Processing	Signal transduction
+hsa04072	Phospholipase D signaling pathway	Environmental Information Processing	Signal transduction
+hsa04071	Sphingolipid signaling pathway	Environmental Information Processing	Signal transduction
+hsa04024	cAMP signaling pathway	Environmental Information Processing	Signal transduction
+hsa04022	cGMP-PKG signaling pathway	Environmental Information Processing	Signal transduction
+hsa04151	PI3K-Akt signaling pathway	Environmental Information Processing	Signal transduction
+hsa04152	AMPK signaling pathway	Environmental Information Processing	Signal transduction
+hsa04150	mTOR signaling pathway	Environmental Information Processing	Signal transduction
+hsa04080	Neuroactive ligand-receptor interaction	Environmental Information Processing	Signaling molecules and interaction
+hsa04060	Cytokine-cytokine receptor interaction	Environmental Information Processing	Signaling molecules and interaction
+hsa04061	Viral protein interaction with cytokine and cytokine receptor	Environmental Information Processing	Signaling molecules and interaction
+hsa04512	ECM-receptor interaction	Environmental Information Processing	Signaling molecules and interaction
+hsa04514	Cell adhesion molecules (CAMs)	Environmental Information Processing	Signaling molecules and interaction
+hsa04144	Endocytosis	Cellular Processes	Transport and catabolism
+hsa04145	Phagosome	Cellular Processes	Transport and catabolism
+hsa04142	Lysosome	Cellular Processes	Transport and catabolism
+hsa04146	Peroxisome	Cellular Processes	Transport and catabolism
+hsa04140	Autophagy - animal	Cellular Processes	Transport and catabolism
+hsa04136	Autophagy - other	Cellular Processes	Transport and catabolism
+hsa04137	Mitophagy - animal	Cellular Processes	Transport and catabolism
+hsa04110	Cell cycle	Cellular Processes	Cell growth and death
+hsa04114	Oocyte meiosis	Cellular Processes	Cell growth and death
+hsa04210	Apoptosis	Cellular Processes	Cell growth and death
+hsa04215	Apoptosis - multiple species	Cellular Processes	Cell growth and death
+hsa04216	Ferroptosis	Cellular Processes	Cell growth and death
+hsa04217	Necroptosis	Cellular Processes	Cell growth and death
+hsa04115	p53 signaling pathway	Cellular Processes	Cell growth and death
+hsa04218	Cellular senescence	Cellular Processes	Cell growth and death
+hsa04510	Focal adhesion	Cellular Processes	Cellular community - eukaryotes
+hsa04520	Adherens junction	Cellular Processes	Cellular community - eukaryotes
+hsa04530	Tight junction	Cellular Processes	Cellular community - eukaryotes
+hsa04540	Gap junction	Cellular Processes	Cellular community - eukaryotes
+hsa04550	Signaling pathways regulating pluripotency of stem cells	Cellular Processes	Cellular community - eukaryotes
+hsa04810	Regulation of actin cytoskeleton	Cellular Processes	Cell motility
+hsa04640	Hematopoietic cell lineage	Organismal Systems	Immune system
+hsa04610	Complement and coagulation cascades	Organismal Systems	Immune system
+hsa04611	Platelet activation	Organismal Systems	Immune system
+hsa04620	Toll-like receptor signaling pathway	Organismal Systems	Immune system
+hsa04621	NOD-like receptor signaling pathway	Organismal Systems	Immune system
+hsa04622	RIG-I-like receptor signaling pathway	Organismal Systems	Immune system
+hsa04623	Cytosolic DNA-sensing pathway	Organismal Systems	Immune system
+hsa04625	C-type lectin receptor signaling pathway	Organismal Systems	Immune system
+hsa04650	Natural killer cell mediated cytotoxicity	Organismal Systems	Immune system
+hsa04612	Antigen processing and presentation	Organismal Systems	Immune system
+hsa04660	T cell receptor signaling pathway	Organismal Systems	Immune system
+hsa04658	Th1 and Th2 cell differentiation	Organismal Systems	Immune system
+hsa04659	Th17 cell differentiation	Organismal Systems	Immune system
+hsa04657	IL-17 signaling pathway	Organismal Systems	Immune system
+hsa04662	B cell receptor signaling pathway	Organismal Systems	Immune system
+hsa04664	Fc epsilon RI signaling pathway	Organismal Systems	Immune system
+hsa04666	Fc gamma R-mediated phagocytosis	Organismal Systems	Immune system
+hsa04670	Leukocyte transendothelial migration	Organismal Systems	Immune system
+hsa04672	Intestinal immune network for IgA production	Organismal Systems	Immune system
+hsa04062	Chemokine signaling pathway	Organismal Systems	Immune system
+hsa04911	Insulin secretion	Organismal Systems	Endocrine system
+hsa04910	Insulin signaling pathway	Organismal Systems	Endocrine system
+hsa04922	Glucagon signaling pathway	Organismal Systems	Endocrine system
+hsa04923	Regulation of lipolysis in adipocytes	Organismal Systems	Endocrine system
+hsa04920	Adipocytokine signaling pathway	Organismal Systems	Endocrine system
+hsa03320	PPAR signaling pathway	Organismal Systems	Endocrine system
+hsa04929	GnRH secretion	Organismal Systems	Endocrine system
+hsa04912	GnRH signaling pathway	Organismal Systems	Endocrine system
+hsa04913	Ovarian steroidogenesis	Organismal Systems	Endocrine system
+hsa04915	Estrogen signaling pathway	Organismal Systems	Endocrine system
+hsa04914	Progesterone-mediated oocyte maturation	Organismal Systems	Endocrine system
+hsa04917	Prolactin signaling pathway	Organismal Systems	Endocrine system
+hsa04921	Oxytocin signaling pathway	Organismal Systems	Endocrine system
+hsa04926	Relaxin signaling pathway	Organismal Systems	Endocrine system
+hsa04935	"Growth hormone synthesis, secretion and action"	Organismal Systems	Endocrine system
+hsa04918	Thyroid hormone synthesis	Organismal Systems	Endocrine system
+hsa04919	Thyroid hormone signaling pathway	Organismal Systems	Endocrine system
+hsa04928	"Parathyroid hormone synthesis, secretion and action"	Organismal Systems	Endocrine system
+hsa04916	Melanogenesis	Organismal Systems	Endocrine system
+hsa04924	Renin secretion	Organismal Systems	Endocrine system
+hsa04614	Renin-angiotensin system	Organismal Systems	Endocrine system
+hsa04925	Aldosterone synthesis and secretion	Organismal Systems	Endocrine system
+hsa04927	Cortisol synthesis and secretion	Organismal Systems	Endocrine system
+hsa04260	Cardiac muscle contraction	Organismal Systems	Circulatory system
+hsa04261	Adrenergic signaling in cardiomyocytes	Organismal Systems	Circulatory system
+hsa04270	Vascular smooth muscle contraction	Organismal Systems	Circulatory system
+hsa04970	Salivary secretion	Organismal Systems	Digestive system
+hsa04971	Gastric acid secretion	Organismal Systems	Digestive system
+hsa04972	Pancreatic secretion	Organismal Systems	Digestive system
+hsa04976	Bile secretion	Organismal Systems	Digestive system
+hsa04973	Carbohydrate digestion and absorption	Organismal Systems	Digestive system
+hsa04974	Protein digestion and absorption	Organismal Systems	Digestive system
+hsa04975	Fat digestion and absorption	Organismal Systems	Digestive system
+hsa04979	Cholesterol metabolism	Organismal Systems	Digestive system
+hsa04977	Vitamin digestion and absorption	Organismal Systems	Digestive system
+hsa04978	Mineral absorption	Organismal Systems	Digestive system
+hsa04962	Vasopressin-regulated water reabsorption	Organismal Systems	Excretory system
+hsa04960	Aldosterone-regulated sodium reabsorption	Organismal Systems	Excretory system
+hsa04961	Endocrine and other factor-regulated calcium reabsorption	Organismal Systems	Excretory system
+hsa04964	Proximal tubule bicarbonate reclamation	Organismal Systems	Excretory system
+hsa04966	Collecting duct acid secretion	Organismal Systems	Excretory system
+hsa04724	Glutamatergic synapse	Organismal Systems	Nervous system
+hsa04727	GABAergic synapse	Organismal Systems	Nervous system
+hsa04725	Cholinergic synapse	Organismal Systems	Nervous system
+hsa04728	Dopaminergic synapse	Organismal Systems	Nervous system
+hsa04726	Serotonergic synapse	Organismal Systems	Nervous system
+hsa04720	Long-term potentiation	Organismal Systems	Nervous system
+hsa04730	Long-term depression	Organismal Systems	Nervous system
+hsa04723	Retrograde endocannabinoid signaling	Organismal Systems	Nervous system
+hsa04721	Synaptic vesicle cycle	Organismal Systems	Nervous system
+hsa04722	Neurotrophin signaling pathway	Organismal Systems	Nervous system
+hsa04744	Phototransduction	Organismal Systems	Sensory system
+hsa04740	Olfactory transduction	Organismal Systems	Sensory system
+hsa04742	Taste transduction	Organismal Systems	Sensory system
+hsa04750	Inflammatory mediator regulation of TRP channels	Organismal Systems	Sensory system
+hsa04360	Axon guidance	Organismal Systems	Development and regeneration
+hsa04380	Osteoclast differentiation	Organismal Systems	Development and regeneration
+hsa04211	Longevity regulating pathway	Organismal Systems	Aging
+hsa04213	Longevity regulating pathway - multiple species	Organismal Systems	Aging
+hsa04710	Circadian rhythm	Organismal Systems	Environmental adaptation
+hsa04713	Circadian entrainment	Organismal Systems	Environmental adaptation
+hsa04714	Thermogenesis	Organismal Systems	Environmental adaptation
+hsa05200	Pathways in cancer	Human Diseases	Cancer: overview
+hsa05202	Transcriptional misregulation in cancer	Human Diseases	Cancer: overview
+hsa05206	MicroRNAs in cancer	Human Diseases	Cancer: overview
+hsa05205	Proteoglycans in cancer	Human Diseases	Cancer: overview
+hsa05204	Chemical carcinogenesis	Human Diseases	Cancer: overview
+hsa05203	Viral carcinogenesis	Human Diseases	Cancer: overview
+hsa05230	Central carbon metabolism in cancer	Human Diseases	Cancer: overview
+hsa05231	Choline metabolism in cancer	Human Diseases	Cancer: overview
+hsa05235	PD-L1 expression and PD-1 checkpoint pathway in cancer	Human Diseases	Cancer: overview
+hsa05210	Colorectal cancer	Human Diseases	Cancer: specific types
+hsa05212	Pancreatic cancer	Human Diseases	Cancer: specific types
+hsa05225	Hepatocellular carcinoma	Human Diseases	Cancer: specific types
+hsa05226	Gastric cancer	Human Diseases	Cancer: specific types
+hsa05214	Glioma	Human Diseases	Cancer: specific types
+hsa05216	Thyroid cancer	Human Diseases	Cancer: specific types
+hsa05221	Acute myeloid leukemia	Human Diseases	Cancer: specific types
+hsa05220	Chronic myeloid leukemia	Human Diseases	Cancer: specific types
+hsa05217	Basal cell carcinoma	Human Diseases	Cancer: specific types
+hsa05218	Melanoma	Human Diseases	Cancer: specific types
+hsa05211	Renal cell carcinoma	Human Diseases	Cancer: specific types
+hsa05219	Bladder cancer	Human Diseases	Cancer: specific types
+hsa05215	Prostate cancer	Human Diseases	Cancer: specific types
+hsa05213	Endometrial cancer	Human Diseases	Cancer: specific types
+hsa05224	Breast cancer	Human Diseases	Cancer: specific types
+hsa05222	Small cell lung cancer	Human Diseases	Cancer: specific types
+hsa05223	Non-small cell lung cancer	Human Diseases	Cancer: specific types
+hsa05310	Asthma	Human Diseases	Immune disease
+hsa05322	Systemic lupus erythematosus	Human Diseases	Immune disease
+hsa05323	Rheumatoid arthritis	Human Diseases	Immune disease
+hsa05320	Autoimmune thyroid disease	Human Diseases	Immune disease
+hsa05321	Inflammatory bowel disease (IBD)	Human Diseases	Immune disease
+hsa05330	Allograft rejection	Human Diseases	Immune disease
+hsa05332	Graft-versus-host disease	Human Diseases	Immune disease
+hsa05340	Primary immunodeficiency	Human Diseases	Immune disease
+hsa05010	Alzheimer disease	Human Diseases	Neurodegenerative disease
+hsa05012	Parkinson disease	Human Diseases	Neurodegenerative disease
+hsa05014	Amyotrophic lateral sclerosis (ALS)	Human Diseases	Neurodegenerative disease
+hsa05016	Huntington disease	Human Diseases	Neurodegenerative disease
+hsa05020	Prion diseases	Human Diseases	Neurodegenerative disease
+hsa05030	Cocaine addiction	Human Diseases	Substance dependence
+hsa05031	Amphetamine addiction	Human Diseases	Substance dependence
+hsa05032	Morphine addiction	Human Diseases	Substance dependence
+hsa05033	Nicotine addiction	Human Diseases	Substance dependence
+hsa05034	Alcoholism	Human Diseases	Substance dependence
+hsa05418	Fluid shear stress and atherosclerosis	Human Diseases	Cardiovascular disease
+hsa05410	Hypertrophic cardiomyopathy (HCM)	Human Diseases	Cardiovascular disease
+hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	Human Diseases	Cardiovascular disease
+hsa05414	Dilated cardiomyopathy (DCM)	Human Diseases	Cardiovascular disease
+hsa05416	Viral myocarditis	Human Diseases	Cardiovascular disease
+hsa04930	Type II diabetes mellitus	Human Diseases	Endocrine and metabolic disease
+hsa04940	Type I diabetes mellitus	Human Diseases	Endocrine and metabolic disease
+hsa04950	Maturity onset diabetes of the young	Human Diseases	Endocrine and metabolic disease
+hsa04932	Non-alcoholic fatty liver disease (NAFLD)	Human Diseases	Endocrine and metabolic disease
+hsa04931	Insulin resistance	Human Diseases	Endocrine and metabolic disease
+hsa04933	AGE-RAGE signaling pathway in diabetic complications	Human Diseases	Endocrine and metabolic disease
+hsa04934	Cushing syndrome	Human Diseases	Endocrine and metabolic disease
+hsa05110	Vibrio cholerae infection	Human Diseases	Infectious disease: bacterial
+hsa05120	Epithelial cell signaling in Helicobacter pylori infection	Human Diseases	Infectious disease: bacterial
+hsa05130	Pathogenic Escherichia coli infection	Human Diseases	Infectious disease: bacterial
+hsa05132	Salmonella infection	Human Diseases	Infectious disease: bacterial
+hsa05131	Shigellosis	Human Diseases	Infectious disease: bacterial
+hsa05135	Yersinia infection	Human Diseases	Infectious disease: bacterial
+hsa05133	Pertussis	Human Diseases	Infectious disease: bacterial
+hsa05134	Legionellosis	Human Diseases	Infectious disease: bacterial
+hsa05150	Staphylococcus aureus infection	Human Diseases	Infectious disease: bacterial
+hsa05152	Tuberculosis	Human Diseases	Infectious disease: bacterial
+hsa05100	Bacterial invasion of epithelial cells	Human Diseases	Infectious disease: bacterial
+hsa05166	Human T-cell leukemia virus 1 infection	Human Diseases	Infectious disease: viral
+hsa05170	Human immunodeficiency virus 1 infection	Human Diseases	Infectious disease: viral
+hsa05162	Measles	Human Diseases	Infectious disease: viral
+hsa05164	Influenza A	Human Diseases	Infectious disease: viral
+hsa05161	Hepatitis B	Human Diseases	Infectious disease: viral
+hsa05160	Hepatitis C	Human Diseases	Infectious disease: viral
+hsa05168	Herpes simplex virus 1 infection	Human Diseases	Infectious disease: viral
+hsa05163	Human cytomegalovirus infection	Human Diseases	Infectious disease: viral
+hsa05167	Kaposi sarcoma-associated herpesvirus infection	Human Diseases	Infectious disease: viral
+hsa05169	Epstein-Barr virus infection	Human Diseases	Infectious disease: viral
+hsa05165	Human papillomavirus infection	Human Diseases	Infectious disease: viral
+hsa05146	Amoebiasis	Human Diseases	Infectious disease: parasitic
+hsa05144	Malaria	Human Diseases	Infectious disease: parasitic
+hsa05145	Toxoplasmosis	Human Diseases	Infectious disease: parasitic
+hsa05140	Leishmaniasis	Human Diseases	Infectious disease: parasitic
+hsa05142	Chagas disease (American trypanosomiasis)	Human Diseases	Infectious disease: parasitic
+hsa05143	African trypanosomiasis	Human Diseases	Infectious disease: parasitic
+hsa01521	EGFR tyrosine kinase inhibitor resistance	Human Diseases	Drug resistance: antineoplastic
+hsa01524	Platinum drug resistance	Human Diseases	Drug resistance: antineoplastic
+hsa01523	Antifolate resistance	Human Diseases	Drug resistance: antineoplastic
+hsa01522	Endocrine resistance	Human Diseases	Drug resistance: antineoplastic
+R-MMU-73843	Mus musculus: 5-Phosphoribose 1-diphosphate biosynthesis	reactome	reactome
+R-MMU-1971475	Mus musculus: A tetrasaccharide linker sequence is required for GAG synthesis	reactome	reactome
+R-MMU-1369062	Mus musculus: ABC transporters in lipid homeostasis	reactome	reactome
+R-MMU-382556	Mus musculus: ABC-family proteins mediated transport	reactome	reactome
+R-MMU-9033807	Mus musculus: ABO blood group biosynthesis	reactome	reactome
+R-MMU-418592	Mus musculus: ADP signalling through P2Y purinoceptor 1	reactome	reactome
+R-MMU-392170	Mus musculus: ADP signalling through P2Y purinoceptor 12	reactome	reactome
+R-MMU-198323	Mus musculus: AKT phosphorylates targets in the cytosol	reactome	reactome
+R-MMU-198693	Mus musculus: AKT phosphorylates targets in the nucleus	reactome	reactome
+R-MMU-211163	Mus musculus: AKT-mediated inactivation of FOXO1A	reactome	reactome
+R-MMU-163680	Mus musculus: AMPK inhibits chREBP transcriptional activation activity	reactome	reactome
+R-MMU-179409	Mus musculus: APC-Cdc20 mediated degradation of Nek2A	reactome	reactome
+R-MMU-174143	Mus musculus: APC/C-mediated degradation of cell cycle proteins	reactome	reactome
+R-MMU-174048	Mus musculus: APC/C:Cdc20 mediated degradation of Cyclin B	reactome	reactome
+R-MMU-174154	Mus musculus: APC/C:Cdc20 mediated degradation of Securin	reactome	reactome
+R-MMU-176409	Mus musculus: APC/C:Cdc20 mediated degradation of mitotic proteins	reactome	reactome
+R-MMU-174178	Mus musculus: APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	reactome	reactome
+R-MMU-179419	Mus musculus: APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	reactome	reactome
+R-MMU-5649702	Mus musculus: APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway	reactome	reactome
+R-MMU-5624958	Mus musculus: ARL13B-mediated ciliary trafficking of INPP5E	reactome	reactome
+R-MMU-170984	Mus musculus: ARMS-mediated activation	reactome	reactome
+R-MMU-381033	Mus musculus: ATF6 (ATF6-alpha) activates chaperones	reactome	reactome
+R-MMU-1296025	Mus musculus: ATP sensitive Potassium channels	reactome	reactome
+R-MMU-450408	Mus musculus: AUF1 (hnRNP D0) binds and destabilizes mRNA	reactome	reactome
+R-MMU-8854518	Mus musculus: AURKA Activation by TPX2	reactome	reactome
+R-MMU-2161541	Mus musculus: Abacavir metabolism	reactome	reactome
+R-MMU-2161517	Mus musculus: Abacavir transmembrane transport	reactome	reactome
+R-MMU-2161522	Mus musculus: Abacavir transport and metabolism	reactome	reactome
+R-MMU-73930	Mus musculus: Abasic sugar-phosphate removal via the single-nucleotide replacement pathway	reactome	reactome
+R-MMU-156582	Mus musculus: Acetylation	reactome	reactome
+R-MMU-264642	Mus musculus: Acetylcholine Neurotransmitter Release Cycle	reactome	reactome
+R-MMU-181431	Mus musculus: Acetylcholine binding and downstream events	reactome	reactome
+R-MMU-399997	Mus musculus: Acetylcholine regulates insulin secretion	reactome	reactome
+R-MMU-1300645	Mus musculus: Acrosome Reaction and Sperm:Oocyte Membrane Binding	reactome	reactome
+R-MMU-2122948	Mus musculus: Activated NOTCH1 Transmits Signal to the Nucleus	reactome	reactome
+R-MMU-9028731	Mus musculus: Activated NTRK2 signals through FRS2 and FRS3	reactome	reactome
+R-MMU-9032500	Mus musculus: Activated NTRK2 signals through FYN	reactome	reactome
+R-MMU-9026527	Mus musculus: Activated NTRK2 signals through PLCG1	reactome	reactome
+R-MMU-9603381	Mus musculus: Activated NTRK3 signals through PI3K	reactome	reactome
+R-MMU-9034793	Mus musculus: Activated NTRK3 signals through PLCG1	reactome	reactome
+R-MMU-5625886	Mus musculus: Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	reactome	reactome
+R-MMU-111452	Mus musculus: Activation and oligomerization of BAK protein	reactome	reactome
+R-MMU-165158	Mus musculus: Activation of AKT2	reactome	reactome
+R-MMU-399710	Mus musculus: Activation of AMPA receptors	reactome	reactome
+R-MMU-176814	Mus musculus: Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	reactome	reactome
+R-MMU-176187	Mus musculus: Activation of ATR in response to replication stress	reactome	reactome
+R-MMU-111447	Mus musculus: Activation of BAD and translocation to mitochondria 	reactome	reactome
+R-MMU-114452	Mus musculus: Activation of BH3-only proteins	reactome	reactome
+R-MMU-111446	Mus musculus: Activation of BIM and translocation to mitochondria 	reactome	reactome
+R-MMU-139910	Mus musculus: Activation of BMF and translocation to mitochondria	reactome	reactome
+R-MMU-174577	Mus musculus: Activation of C3 and C5	reactome	reactome
+R-MMU-451308	Mus musculus: Activation of Ca-permeable Kainate Receptor	reactome	reactome
+R-MMU-1296041	Mus musculus: Activation of G protein gated Potassium channels	reactome	reactome
+R-MMU-991365	Mus musculus: Activation of GABAB receptors	reactome	reactome
+R-MMU-936964	Mus musculus: Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon	reactome	reactome
+R-MMU-1592389	Mus musculus: Activation of Matrix Metalloproteinases	reactome	reactome
+R-MMU-1169091	Mus musculus: Activation of NF-kappaB in B cells	reactome	reactome
+R-MMU-2980767	"Mus musculus: Activation of NIMA Kinases NEK9, NEK6, NEK7"	reactome	reactome
+R-MMU-442755	Mus musculus: Activation of NMDA receptors and postsynaptic events	reactome	reactome
+R-MMU-111448	Mus musculus: Activation of NOXA and translocation to mitochondria	reactome	reactome
+R-MMU-451307	Mus musculus: Activation of Na-permeable kainate receptors	reactome	reactome
+R-MMU-9619229	Mus musculus: Activation of RAC1 downstream of NMDARs	reactome	reactome
+R-MMU-1169092	Mus musculus: Activation of RAS in B cells	reactome	reactome
+R-MMU-5635838	Mus musculus: Activation of SMO	reactome	reactome
+R-MMU-187015	Mus musculus: Activation of TRKA receptors	reactome	reactome
+R-MMU-451326	Mus musculus: Activation of kainate receptors upon glutamate binding	reactome	reactome
+R-MMU-450341	Mus musculus: Activation of the AP-1 family of transcription factors	reactome	reactome
+R-MMU-8866907	Mus musculus: Activation of the TFAP2 (AP-2) family of transcription factors	reactome	reactome
+R-MMU-72662	"Mus musculus: Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S"	reactome	reactome
+R-MMU-2485179	Mus musculus: Activation of the phototransduction cascade	reactome	reactome
+R-MMU-68962	Mus musculus: Activation of the pre-replicative complex	reactome	reactome
+R-MMU-75108	"Mus musculus: Activation, myristolyation of BID and translocation to mitochondria"	reactome	reactome
+R-MMU-114294	"Mus musculus: Activation, translocation and oligomerization of BAX"	reactome	reactome
+R-MMU-1482798	Mus musculus: Acyl chain remodeling of CL	reactome	reactome
+R-MMU-1482883	Mus musculus: Acyl chain remodeling of DAG and TAG	reactome	reactome
+R-MMU-1482788	Mus musculus: Acyl chain remodelling of PC	reactome	reactome
+R-MMU-1482839	Mus musculus: Acyl chain remodelling of PE	reactome	reactome
+R-MMU-1482925	Mus musculus: Acyl chain remodelling of PG	reactome	reactome
+R-MMU-1482922	Mus musculus: Acyl chain remodelling of PI	reactome	reactome
+R-MMU-1482801	Mus musculus: Acyl chain remodelling of PS	reactome	reactome
+R-MMU-1280218	Mus musculus: Adaptive Immune System	reactome	reactome
+R-MMU-417973	Mus musculus: Adenosine P1 receptors	reactome	reactome
+R-MMU-170660	Mus musculus: Adenylate cyclase activating pathway	reactome	reactome
+R-MMU-170670	Mus musculus: Adenylate cyclase inhibitory pathway	reactome	reactome
+R-MMU-418990	Mus musculus: Adherens junctions interactions	reactome	reactome
+R-MMU-392023	Mus musculus: Adrenaline signalling through Alpha-2 adrenergic receptor	reactome	reactome
+R-MMU-400042	"Mus musculus: Adrenaline,noradrenaline inhibits insulin secretion"	reactome	reactome
+R-MMU-390696	Mus musculus: Adrenoceptors	reactome	reactome
+R-MMU-879415	Mus musculus: Advanced glycosylation endproduct receptor signaling	reactome	reactome
+R-MMU-5423646	Mus musculus: Aflatoxin activation and detoxification	reactome	reactome
+R-MMU-351143	Mus musculus: Agmatine biosynthesis	reactome	reactome
+R-MMU-8964540	Mus musculus: Alanine metabolism	reactome	reactome
+R-MMU-1462054	Mus musculus: Alpha-defensins	reactome	reactome
+R-MMU-389599	Mus musculus: Alpha-oxidation of phytanate	reactome	reactome
+R-MMU-9645460	Mus musculus: Alpha-protein kinase 1 signaling pathway	reactome	reactome
+R-MMU-173736	Mus musculus: Alternative complement activation	reactome	reactome
+R-MMU-140179	Mus musculus: Amine Oxidase reactions	reactome	reactome
+R-MMU-375280	Mus musculus: Amine ligand-binding receptors	reactome	reactome
+R-MMU-156587	Mus musculus: Amino Acid conjugation	reactome	reactome
+R-MMU-352230	Mus musculus: Amino acid transport across the plasma membrane	reactome	reactome
+R-MMU-9639288	Mus musculus: Amino acids regulate mTORC1	reactome	reactome
+R-MMU-141444	Mus musculus: Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	reactome	reactome
+R-MMU-141424	Mus musculus: Amplification of signal from the kinetochores	reactome	reactome
+R-MMU-2214320	Mus musculus: Anchoring fibril formation	reactome	reactome
+R-MMU-5620912	Mus musculus: Anchoring of the basal body to the plasma membrane	reactome	reactome
+R-MMU-193048	Mus musculus: Androgen biosynthesis	reactome	reactome
+R-MMU-2473224	Mus musculus: Antagonism of Activin by Follistatin	reactome	reactome
+R-MMU-983170	"Mus musculus: Antigen Presentation: Folding, assembly and peptide loading of class I MHC"	reactome	reactome
+R-MMU-983695	Mus musculus: Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	reactome	reactome
+R-MMU-1236975	Mus musculus: Antigen processing-Cross presentation	reactome	reactome
+R-MMU-983168	Mus musculus: Antigen processing: Ubiquitination & Proteasome degradation	reactome	reactome
+R-MMU-6803157	Mus musculus: Antimicrobial peptides	reactome	reactome
+R-MMU-1169410	Mus musculus: Antiviral mechanism by IFN-stimulated genes	reactome	reactome
+R-MMU-109581	Mus musculus: Apoptosis	reactome	reactome
+R-MMU-140342	Mus musculus: Apoptosis induced DNA fragmentation	reactome	reactome
+R-MMU-351906	Mus musculus: Apoptotic cleavage of cell adhesion  proteins	reactome	reactome
+R-MMU-111465	Mus musculus: Apoptotic cleavage of cellular proteins	reactome	reactome
+R-MMU-75153	Mus musculus: Apoptotic execution phase	reactome	reactome
+R-MMU-111471	Mus musculus: Apoptotic factor-mediated response	reactome	reactome
+R-MMU-445717	Mus musculus: Aquaporin-mediated transport	reactome	reactome
+R-MMU-426048	Mus musculus: Arachidonate production from DAG	reactome	reactome
+R-MMU-2142753	Mus musculus: Arachidonic acid metabolism	reactome	reactome
+R-MMU-8937144	Mus musculus: Aryl hydrocarbon receptor signalling	reactome	reactome
+R-MMU-446203	Mus musculus: Asparagine N-linked glycosylation	reactome	reactome
+R-MMU-8963693	Mus musculus: Aspartate and asparagine metabolism	reactome	reactome
+R-MMU-9609736	Mus musculus: Assembly and cell surface presentation of NMDA receptors	reactome	reactome
+R-MMU-8963889	Mus musculus: Assembly of active LPL and LIPC lipase complexes	reactome	reactome
+R-MMU-2022090	Mus musculus: Assembly of collagen fibrils and other multimeric structures	reactome	reactome
+R-MMU-68616	Mus musculus: Assembly of the ORC complex at the origin of replication	reactome	reactome
+R-MMU-68867	Mus musculus: Assembly of the pre-replicative complex	reactome	reactome
+R-MMU-390471	Mus musculus: Association of TriC/CCT with target proteins during biosynthesis	reactome	reactome
+R-MMU-210455	Mus musculus: Astrocytic Glutamate-Glutamine Uptake And Metabolism	reactome	reactome
+R-MMU-4608870	Mus musculus: Asymmetric localization of PCP proteins	reactome	reactome
+R-MMU-162791	Mus musculus: Attachment of GPI anchor to uPAR	reactome	reactome
+R-MMU-3371568	Mus musculus: Attenuation phase	reactome	reactome
+R-MMU-174084	Mus musculus: Autodegradation of Cdh1 by Cdh1:APC/C	reactome	reactome
+R-MMU-349425	Mus musculus: Autodegradation of the E3 ubiquitin ligase COP1	reactome	reactome
+R-MMU-9612973	Mus musculus: Autophagy	reactome	reactome
+R-MMU-422475	Mus musculus: Axon guidance	reactome	reactome
+R-MMU-193634	Mus musculus: Axonal growth inhibition (RHOA activation)	reactome	reactome
+R-MMU-209563	Mus musculus: Axonal growth stimulation	reactome	reactome
+R-MMU-5250924	Mus musculus: B-WICH complex positively regulates rRNA expression	reactome	reactome
+R-MMU-5620922	Mus musculus: BBSome-mediated cargo-targeting to cilium	reactome	reactome
+R-MMU-111453	Mus musculus: BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	reactome	reactome
+R-MMU-73884	Mus musculus: Base Excision Repair	reactome	reactome
+R-MMU-73929	"Mus musculus: Base-Excision Repair, AP Site Formation"	reactome	reactome
+R-MMU-210991	Mus musculus: Basigin interactions	reactome	reactome
+R-MMU-1461957	Mus musculus: Beta defensins	reactome	reactome
+R-MMU-77352	Mus musculus: Beta oxidation of butanoyl-CoA to acetyl-CoA	reactome	reactome
+R-MMU-77346	Mus musculus: Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	reactome	reactome
+R-MMU-77350	Mus musculus: Beta oxidation of hexanoyl-CoA to butanoyl-CoA	reactome	reactome
+R-MMU-77310	Mus musculus: Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	reactome	reactome
+R-MMU-77285	Mus musculus: Beta oxidation of myristoyl-CoA to lauroyl-CoA	reactome	reactome
+R-MMU-77348	Mus musculus: Beta oxidation of octanoyl-CoA to hexanoyl-CoA	reactome	reactome
+R-MMU-77305	Mus musculus: Beta oxidation of palmitoyl-CoA to myristoyl-CoA	reactome	reactome
+R-MMU-3858494	Mus musculus: Beta-catenin independent WNT signaling	reactome	reactome
+R-MMU-196299	Mus musculus: Beta-catenin phosphorylation cascade	reactome	reactome
+R-MMU-389887	Mus musculus: Beta-oxidation of pristanoyl-CoA	reactome	reactome
+R-MMU-390247	Mus musculus: Beta-oxidation of very long chain fatty acids	reactome	reactome
+R-MMU-425381	Mus musculus: Bicarbonate transporters	reactome	reactome
+R-MMU-194068	Mus musculus: Bile acid and bile salt metabolism	reactome	reactome
+R-MMU-2173782	Mus musculus: Binding and Uptake of Ligands by Scavenger Receptors	reactome	reactome
+R-MMU-141333	Mus musculus: Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	reactome	reactome
+R-MMU-211859	Mus musculus: Biological oxidations	reactome	reactome
+R-MMU-9018676	Mus musculus: Biosynthesis of D-series resolvins	reactome	reactome
+R-MMU-9018677	Mus musculus: Biosynthesis of DHA-derived SPMs	reactome	reactome
+R-MMU-9026395	Mus musculus: Biosynthesis of DHA-derived sulfido conjugates	reactome	reactome
+R-MMU-9018683	Mus musculus: Biosynthesis of DPA-derived SPMs	reactome	reactome
+R-MMU-9025094	Mus musculus: Biosynthesis of DPAn-3 SPMs	reactome	reactome
+R-MMU-9026403	Mus musculus: Biosynthesis of DPAn-3-derived 13-series resolvins	reactome	reactome
+R-MMU-9026290	Mus musculus: Biosynthesis of DPAn-3-derived maresins	reactome	reactome
+R-MMU-9026286	Mus musculus: Biosynthesis of DPAn-3-derived protectins and resolvins	reactome	reactome
+R-MMU-9025106	Mus musculus: Biosynthesis of DPAn-6 SPMs	reactome	reactome
+R-MMU-9023661	Mus musculus: Biosynthesis of E-series 18(R)-resolvins	reactome	reactome
+R-MMU-9018896	Mus musculus: Biosynthesis of E-series 18(S)-resolvins	reactome	reactome
+R-MMU-9018679	Mus musculus: Biosynthesis of EPA-derived SPMs	reactome	reactome
+R-MMU-9020265	Mus musculus: Biosynthesis of aspirin-triggered D-series resolvins	reactome	reactome
+R-MMU-9027604	Mus musculus: Biosynthesis of electrophilic <U+03C9>-3 PUFA oxo-derivatives	reactome	reactome
+R-MMU-9026762	Mus musculus: Biosynthesis of maresin conjugates in tissue regeneration (MCTR)	reactome	reactome
+R-MMU-9027307	Mus musculus: Biosynthesis of maresin-like SPMs	reactome	reactome
+R-MMU-9018682	Mus musculus: Biosynthesis of maresins	reactome	reactome
+R-MMU-9026766	Mus musculus: Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)	reactome	reactome
+R-MMU-9018681	Mus musculus: Biosynthesis of protectins	reactome	reactome
+R-MMU-9018678	Mus musculus: Biosynthesis of specialized proresolving mediators (SPMs)	reactome	reactome
+R-MMU-446193	"Mus musculus: Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein"	reactome	reactome
+R-MMU-196780	Mus musculus: Biotin transport and metabolism	reactome	reactome
+R-MMU-9033658	Mus musculus: Blood group systems biosynthesis	reactome	reactome
+R-MMU-70895	Mus musculus: Branched-chain amino acid catabolism	reactome	reactome
+R-MMU-352238	Mus musculus: Breakdown of the nuclear lamina	reactome	reactome
+R-MMU-450385	Mus musculus: Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	reactome	reactome
+R-MMU-8851680	Mus musculus: Butyrophilin (BTN) family interactions	reactome	reactome
+R-MMU-5621481	Mus musculus: C-type lectin receptors (CLRs)	reactome	reactome
+R-MMU-75102	Mus musculus: C6 deamination of adenosine	reactome	reactome
+R-MMU-5218900	Mus musculus: CASP8 activity is inhibited	reactome	reactome
+R-MMU-5621575	Mus musculus: CD209 (DC-SIGN) signaling	reactome	reactome
+R-MMU-5690714	Mus musculus: CD22 mediated BCR regulation	reactome	reactome
+R-MMU-389356	Mus musculus: CD28 co-stimulation	reactome	reactome
+R-MMU-389357	Mus musculus: CD28 dependent PI3K/Akt signaling	reactome	reactome
+R-MMU-389359	Mus musculus: CD28 dependent Vav1 pathway	reactome	reactome
+R-MMU-68689	Mus musculus: CDC6 association with the ORC:origin complex	reactome	reactome
+R-MMU-69017	Mus musculus: CDK-mediated phosphorylation and removal of Cdc6	reactome	reactome
+R-MMU-68827	Mus musculus: CDT1 association with the CDC6:ORC:origin complex	reactome	reactome
+R-MMU-5607763	Mus musculus: CLEC7A (Dectin-1) induces NFAT activation	reactome	reactome
+R-MMU-5607764	Mus musculus: CLEC7A (Dectin-1) signaling	reactome	reactome
+R-MMU-5660668	Mus musculus: CLEC7A/inflammasome pathway	reactome	reactome
+R-MMU-6811434	Mus musculus: COPI-dependent Golgi-to-ER retrograde traffic	reactome	reactome
+R-MMU-6811436	Mus musculus: COPI-independent Golgi-to-ER retrograde traffic	reactome	reactome
+R-MMU-6807878	Mus musculus: COPI-mediated anterograde transport	reactome	reactome
+R-MMU-204005	Mus musculus: COPII-mediated vesicle transport	reactome	reactome
+R-MMU-140180	Mus musculus: COX reactions	reactome	reactome
+R-MMU-199920	Mus musculus: CREB phosphorylation	reactome	reactome
+R-MMU-442742	Mus musculus: CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	reactome	reactome
+R-MMU-442720	Mus musculus: CREB1 phosphorylation through the activation of Adenylate Cyclase	reactome	reactome
+R-MMU-442729	Mus musculus: CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde	reactome	reactome
+R-MMU-8874211	Mus musculus: CREB3 factors activate genes	reactome	reactome
+R-MMU-399956	Mus musculus: CRMPs in Sema3A signaling	reactome	reactome
+R-MMU-2024101	Mus musculus: CS/DS degradation	reactome	reactome
+R-MMU-389513	Mus musculus: CTLA4 inhibitory signaling	reactome	reactome
+R-MMU-211999	Mus musculus: CYP2E1 reactions	reactome	reactome
+R-MMU-111996	Mus musculus: Ca-dependent events	reactome	reactome
+R-MMU-1296052	Mus musculus: Ca2+ activated K+ channels	reactome	reactome
+R-MMU-4086398	Mus musculus: Ca2+ pathway	reactome	reactome
+R-MMU-111997	Mus musculus: CaM pathway	reactome	reactome
+R-MMU-111932	Mus musculus: CaMK IV-mediated phosphorylation of CREB	reactome	reactome
+R-MMU-2025928	Mus musculus: Calcineurin activates NFAT	reactome	reactome
+R-MMU-419812	Mus musculus: Calcitonin-like ligand receptors	reactome	reactome
+R-MMU-111933	Mus musculus: Calmodulin induced events	reactome	reactome
+R-MMU-901042	Mus musculus: Calnexin/calreticulin cycle	reactome	reactome
+R-MMU-111957	Mus musculus: Cam-PDE 1 activation	reactome	reactome
+R-MMU-72737	Mus musculus: Cap-dependent Translation Initiation	reactome	reactome
+R-MMU-8955332	Mus musculus: Carboxyterminal post-translational modifications of tubulin	reactome	reactome
+R-MMU-5576891	Mus musculus: Cardiac conduction	reactome	reactome
+R-MMU-5694530	Mus musculus: Cargo concentration in the ER	reactome	reactome
+R-MMU-8856825	Mus musculus: Cargo recognition for clathrin-mediated endocytosis	reactome	reactome
+R-MMU-5620920	Mus musculus: Cargo trafficking to the periciliary membrane	reactome	reactome
+R-MMU-71262	Mus musculus: Carnitine synthesis	reactome	reactome
+R-MMU-140534	Mus musculus: Caspase activation via Death Receptors in the presence of ligand	reactome	reactome
+R-MMU-418889	Mus musculus: Caspase activation via Dependence Receptors in the absence of ligand	reactome	reactome
+R-MMU-5357769	Mus musculus: Caspase activation via extrinsic apoptotic signalling pathway	reactome	reactome
+R-MMU-264870	Mus musculus: Caspase-mediated cleavage of cytoskeletal proteins	reactome	reactome
+R-MMU-209905	Mus musculus: Catecholamine biosynthesis	reactome	reactome
+R-MMU-426117	Mus musculus: Cation-coupled Chloride cotransporters	reactome	reactome
+R-MMU-174184	Mus musculus: Cdc20:Phospho-APC/C mediated degradation of Cyclin A	reactome	reactome
+R-MMU-1640170	Mus musculus: Cell Cycle	reactome	reactome
+R-MMU-69620	Mus musculus: Cell Cycle Checkpoints	reactome	reactome
+R-MMU-69278	"Mus musculus: Cell Cycle, Mitotic"	reactome	reactome
+R-MMU-204998	"Mus musculus: Cell death signalling via NRAGE, NRIF and NADE"	reactome	reactome
+R-MMU-446728	Mus musculus: Cell junction organization	reactome	reactome
+R-MMU-202733	Mus musculus: Cell surface interactions at the vascular wall	reactome	reactome
+R-MMU-1500931	Mus musculus: Cell-Cell communication	reactome	reactome
+R-MMU-421270	Mus musculus: Cell-cell junction organization	reactome	reactome
+R-MMU-446353	Mus musculus: Cell-extracellular matrix interactions	reactome	reactome
+R-MMU-2559583	Mus musculus: Cellular Senescence	reactome	reactome
+R-MMU-189200	Mus musculus: Cellular hexose transport	reactome	reactome
+R-MMU-3371556	Mus musculus: Cellular response to heat stress	reactome	reactome
+R-MMU-1234174	Mus musculus: Cellular response to hypoxia	reactome	reactome
+R-MMU-8953897	Mus musculus: Cellular responses to external stimuli	reactome	reactome
+R-MMU-2262752	Mus musculus: Cellular responses to stress	reactome	reactome
+R-MMU-380287	Mus musculus: Centrosome maturation	reactome	reactome
+R-MMU-163765	Mus musculus: ChREBP activates metabolic gene expression	reactome	reactome
+R-MMU-9613829	Mus musculus: Chaperone Mediated Autophagy	reactome	reactome
+R-MMU-390466	Mus musculus: Chaperonin-mediated protein folding	reactome	reactome
+R-MMU-380108	Mus musculus: Chemokine receptors bind chemokines	reactome	reactome
+R-MMU-75035	Mus musculus: Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	reactome	reactome
+R-MMU-191273	Mus musculus: Cholesterol biosynthesis	reactome	reactome
+R-MMU-6807047	Mus musculus: Cholesterol biosynthesis via desmosterol	reactome	reactome
+R-MMU-6807062	Mus musculus: Cholesterol biosynthesis via lathosterol	reactome	reactome
+R-MMU-6798163	Mus musculus: Choline catabolism	reactome	reactome
+R-MMU-2022870	Mus musculus: Chondroitin sulfate biosynthesis	reactome	reactome
+R-MMU-1793185	Mus musculus: Chondroitin sulfate/dermatan sulfate metabolism	reactome	reactome
+R-MMU-3247509	Mus musculus: Chromatin modifying enzymes	reactome	reactome
+R-MMU-4839726	Mus musculus: Chromatin organization	reactome	reactome
+R-MMU-73886	Mus musculus: Chromosome Maintenance	reactome	reactome
+R-MMU-8963888	Mus musculus: Chylomicron assembly	reactome	reactome
+R-MMU-8964026	Mus musculus: Chylomicron clearance	reactome	reactome
+R-MMU-8963901	Mus musculus: Chylomicron remodeling	reactome	reactome
+R-MMU-5617833	Mus musculus: Cilium Assembly	reactome	reactome
+R-MMU-71403	Mus musculus: Citric acid cycle (TCA cycle)	reactome	reactome
+R-MMU-373076	Mus musculus: Class A/1 (Rhodopsin-like receptors)	reactome	reactome
+R-MMU-373080	Mus musculus: Class B/2 (Secretin family receptors)	reactome	reactome
+R-MMU-420499	Mus musculus: Class C/3 (Metabotropic glutamate/pheromone receptors)	reactome	reactome
+R-MMU-983169	Mus musculus: Class I MHC mediated antigen processing & presentation	reactome	reactome
+R-MMU-9603798	Mus musculus: Class I peroxisomal membrane protein import	reactome	reactome
+R-MMU-1296053	Mus musculus: Classical Kir channels	reactome	reactome
+R-MMU-173623	Mus musculus: Classical antibody-mediated complement activation	reactome	reactome
+R-MMU-8856828	Mus musculus: Clathrin-mediated endocytosis	reactome	reactome
+R-MMU-110331	Mus musculus: Cleavage of the damaged purine	reactome	reactome
+R-MMU-110329	Mus musculus: Cleavage of the damaged pyrimidine 	reactome	reactome
+R-MMU-196741	"Mus musculus: Cobalamin (Cbl, vitamin B12) transport and metabolism"	reactome	reactome
+R-MMU-196783	Mus musculus: Coenzyme A biosynthesis	reactome	reactome
+R-MMU-2470946	Mus musculus: Cohesin Loading onto Chromatin	reactome	reactome
+R-MMU-1650814	Mus musculus: Collagen biosynthesis and modifying enzymes	reactome	reactome
+R-MMU-8948216	Mus musculus: Collagen chain trimerization	reactome	reactome
+R-MMU-1442490	Mus musculus: Collagen degradation	reactome	reactome
+R-MMU-1474290	Mus musculus: Collagen formation	reactome	reactome
+R-MMU-140875	Mus musculus: Common Pathway of Fibrin Clot Formation	reactome	reactome
+R-MMU-166658	Mus musculus: Complement cascade	reactome	reactome
+R-MMU-6799198	Mus musculus: Complex I biogenesis	reactome	reactome
+R-MMU-2514853	Mus musculus: Condensation of Prometaphase Chromosomes	reactome	reactome
+R-MMU-2299718	Mus musculus: Condensation of Prophase Chromosomes	reactome	reactome
+R-MMU-177135	Mus musculus: Conjugation of benzoate with glycine	reactome	reactome
+R-MMU-159424	Mus musculus: Conjugation of carboxylic acids	reactome	reactome
+R-MMU-177162	Mus musculus: Conjugation of phenylacetate with glutamine	reactome	reactome
+R-MMU-177128	Mus musculus: Conjugation of salicylate with glycine	reactome	reactome
+R-MMU-176407	Mus musculus: Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	reactome	reactome
+R-MMU-6814122	Mus musculus: Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	reactome	reactome
+R-MMU-388841	Mus musculus: Costimulation by the CD28 family	reactome	reactome
+R-MMU-71288	Mus musculus: Creatine metabolism	reactome	reactome
+R-MMU-166786	Mus musculus: Creation of C4 and C2 activators	reactome	reactome
+R-MMU-8949613	Mus musculus: Cristae formation	reactome	reactome
+R-MMU-1236973	Mus musculus: Cross-presentation of particulate exogenous antigens (phagosomes)	reactome	reactome
+R-MMU-1236978	Mus musculus: Cross-presentation of soluble exogenous antigens (endosomes)	reactome	reactome
+R-MMU-2243919	Mus musculus: Crosslinking of collagen fibrils	reactome	reactome
+R-MMU-69273	Mus musculus: Cyclin A/B1/B2 associated events during G2/M transition	reactome	reactome
+R-MMU-69656	Mus musculus: Cyclin A:Cdk2-associated events at S phase entry	reactome	reactome
+R-MMU-69231	Mus musculus: Cyclin D associated events in G1	reactome	reactome
+R-MMU-69202	Mus musculus: Cyclin E associated events during G1/S transition 	reactome	reactome
+R-MMU-1614603	Mus musculus: Cysteine formation from homocysteine	reactome	reactome
+R-MMU-211897	Mus musculus: Cytochrome P450 - arranged by substrate type	reactome	reactome
+R-MMU-111461	Mus musculus: Cytochrome c-mediated apoptotic response	reactome	reactome
+R-MMU-1280215	Mus musculus: Cytokine Signaling in Immune system	reactome	reactome
+R-MMU-1834949	Mus musculus: Cytosolic sensors of pathogen-associated DNA 	reactome	reactome
+R-MMU-156584	Mus musculus: Cytosolic sulfonation of small molecules	reactome	reactome
+R-MMU-379716	Mus musculus: Cytosolic tRNA aminoacylation	reactome	reactome
+R-MMU-1489509	Mus musculus: DAG and IP3 signaling	reactome	reactome
+R-MMU-2172127	Mus musculus: DAP12 interactions	reactome	reactome
+R-MMU-2424491	Mus musculus: DAP12 signaling	reactome	reactome
+R-MMU-180024	Mus musculus: DARPP-32 events	reactome	reactome
+R-MMU-418885	Mus musculus: DCC mediated attractive signaling	reactome	reactome
+R-MMU-168928	Mus musculus: DDX58/IFIH1-mediated induction of interferon-alpha/beta	reactome	reactome
+R-MMU-3134963	Mus musculus: DEx/H-box helicases activate type I IFN and inflammatory cytokines production 	reactome	reactome
+R-MMU-73893	Mus musculus: DNA Damage Bypass	reactome	reactome
+R-MMU-5696394	Mus musculus: DNA Damage Recognition in GG-NER	reactome	reactome
+R-MMU-73942	Mus musculus: DNA Damage Reversal	reactome	reactome
+R-MMU-2559586	Mus musculus: DNA Damage/Telomere Stress Induced Senescence	reactome	reactome
+R-MMU-5693606	Mus musculus: DNA Double Strand Break Response	reactome	reactome
+R-MMU-5693532	Mus musculus: DNA Double-Strand Break Repair	reactome	reactome
+R-MMU-73894	Mus musculus: DNA Repair	reactome	reactome
+R-MMU-69306	Mus musculus: DNA Replication	reactome	reactome
+R-MMU-69002	Mus musculus: DNA Replication Pre-Initiation	reactome	reactome
+R-MMU-68952	Mus musculus: DNA replication initiation	reactome	reactome
+R-MMU-69190	Mus musculus: DNA strand elongation	reactome	reactome
+R-MMU-376172	Mus musculus: DSCAM interactions	reactome	reactome
+R-MMU-3769402	Mus musculus: Deactivation of the beta-catenin transactivating complex	reactome	reactome
+R-MMU-429947	Mus musculus: Deadenylation of mRNA	reactome	reactome
+R-MMU-429914	Mus musculus: Deadenylation-dependent mRNA decay	reactome	reactome
+R-MMU-73887	Mus musculus: Death Receptor Signalling	reactome	reactome
+R-MMU-5607761	Mus musculus: Dectin-1 mediated noncanonical NF-kB signaling	reactome	reactome
+R-MMU-5621480	Mus musculus: Dectin-2 family	reactome	reactome
+R-MMU-1461973	Mus musculus: Defensins	reactome	reactome
+R-MMU-4641257	Mus musculus: Degradation of AXIN	reactome	reactome
+R-MMU-4641258	Mus musculus: Degradation of DVL	reactome	reactome
+R-MMU-916853	Mus musculus: Degradation of GABA	reactome	reactome
+R-MMU-5610780	Mus musculus: Degradation of GLI1 by the proteasome	reactome	reactome
+R-MMU-195253	Mus musculus: Degradation of beta-catenin by the destruction complex	reactome	reactome
+R-MMU-1614558	Mus musculus: Degradation of cysteine and homocysteine	reactome	reactome
+R-MMU-1474228	Mus musculus: Degradation of the extracellular matrix	reactome	reactome
+R-MMU-4419969	Mus musculus: Depolymerisation of the Nuclear Lamina	reactome	reactome
+R-MMU-606279	Mus musculus: Deposition of new CENPA-containing nucleosomes at the centromere	reactome	reactome
+R-MMU-73927	Mus musculus: Depurination	reactome	reactome
+R-MMU-73928	Mus musculus: Depyrimidination	reactome	reactome
+R-MMU-2022923	Mus musculus: Dermatan sulfate biosynthesis	reactome	reactome
+R-MMU-3299685	Mus musculus: Detoxification of Reactive Oxygen Species	reactome	reactome
+R-MMU-5688426	Mus musculus: Deubiquitination	reactome	reactome
+R-MMU-1266738	Mus musculus: Developmental Biology	reactome	reactome
+R-MMU-8935690	Mus musculus: Digestion	reactome	reactome
+R-MMU-8963743	Mus musculus: Digestion and absorption	reactome	reactome
+R-MMU-189085	Mus musculus: Digestion of dietary carbohydrate	reactome	reactome
+R-MMU-192456	Mus musculus: Digestion of dietary lipid	reactome	reactome
+R-MMU-69416	Mus musculus: Dimerization of procaspase-8	reactome	reactome
+R-MMU-4641262	Mus musculus: Disassembly of the destruction complex and recruitment of AXIN to the membrane	reactome	reactome
+R-MMU-114516	Mus musculus: Disinhibition of SNARE formation	reactome	reactome
+R-MMU-110357	Mus musculus: Displacement of DNA glycosylase by APEX1	reactome	reactome
+R-MMU-75205	Mus musculus: Dissolution of Fibrin Clot	reactome	reactome
+R-MMU-212676	Mus musculus: Dopamine Neurotransmitter Release Cycle	reactome	reactome
+R-MMU-379401	Mus musculus: Dopamine clearance from the synaptic cleft	reactome	reactome
+R-MMU-390651	Mus musculus: Dopamine receptors	reactome	reactome
+R-MMU-8863795	Mus musculus: Downregulation of ERBB2 signaling	reactome	reactome
+R-MMU-1358803	Mus musculus: Downregulation of ERBB2:ERBB3 signaling	reactome	reactome
+R-MMU-1253288	Mus musculus: Downregulation of ERBB4 signaling	reactome	reactome
+R-MMU-2173795	Mus musculus: Downregulation of SMAD2/3:SMAD4 transcriptional activity	reactome	reactome
+R-MMU-2173788	Mus musculus: Downregulation of TGF-beta receptor signaling	reactome	reactome
+R-MMU-202424	Mus musculus: Downstream TCR signaling	reactome	reactome
+R-MMU-186763	Mus musculus: Downstream signal transduction	reactome	reactome
+R-MMU-1168372	Mus musculus: Downstream signaling events of B Cell Receptor (BCR)	reactome	reactome
+R-MMU-5654687	Mus musculus: Downstream signaling of activated FGFR1	reactome	reactome
+R-MMU-5654696	Mus musculus: Downstream signaling of activated FGFR2	reactome	reactome
+R-MMU-5654708	Mus musculus: Downstream signaling of activated FGFR3	reactome	reactome
+R-MMU-5654716	Mus musculus: Downstream signaling of activated FGFR4	reactome	reactome
+R-MMU-5696400	Mus musculus: Dual Incision in GG-NER	reactome	reactome
+R-MMU-6782135	Mus musculus: Dual incision in TC-NER	reactome	reactome
+R-MMU-113510	Mus musculus: E2F mediated regulation of DNA replication	reactome	reactome
+R-MMU-8866654	Mus musculus: E3 ubiquitin ligases ubiquitinate target proteins	reactome	reactome
+R-MMU-3000178	Mus musculus: ECM proteoglycans	reactome	reactome
+R-MMU-2179392	Mus musculus: EGFR Transactivation by Gastrin	reactome	reactome
+R-MMU-182971	Mus musculus: EGFR downregulation	reactome	reactome
+R-MMU-212718	Mus musculus: EGFR interacts with phospholipase C-gamma	reactome	reactome
+R-MMU-2682334	Mus musculus: EPH-Ephrin signaling	reactome	reactome
+R-MMU-3928665	Mus musculus: EPH-ephrin mediated repulsion of cells	reactome	reactome
+R-MMU-3928663	Mus musculus: EPHA-mediated growth cone collapse	reactome	reactome
+R-MMU-3928662	Mus musculus: EPHB-mediated forward signaling	reactome	reactome
+R-MMU-901032	Mus musculus: ER Quality Control Compartment (ERQC)	reactome	reactome
+R-MMU-199977	Mus musculus: ER to Golgi Anterograde Transport	reactome	reactome
+R-MMU-1236974	Mus musculus: ER-Phagosome pathway	reactome	reactome
+R-MMU-8847993	Mus musculus: ERBB2 Activates PTK6 Signaling	reactome	reactome
+R-MMU-6785631	Mus musculus: ERBB2 Regulates Cell Motility	reactome	reactome
+R-MMU-198753	Mus musculus: ERK/MAPK targets	reactome	reactome
+R-MMU-202670	Mus musculus: ERKs are inactivated	reactome	reactome
+R-MMU-8939211	Mus musculus: ESR-mediated signaling	reactome	reactome
+R-MMU-114508	Mus musculus: Effects of PIP2 hydrolysis	reactome	reactome
+R-MMU-391903	Mus musculus: Eicosanoid ligand-binding receptors	reactome	reactome
+R-MMU-211979	Mus musculus: Eicosanoids	reactome	reactome
+R-MMU-1566948	Mus musculus: Elastic fibre formation	reactome	reactome
+R-MMU-112303	Mus musculus: Electric Transmission Across Gap Junctions	reactome	reactome
+R-MMU-2395516	Mus musculus: Electron transport from NADPH to Ferredoxin	reactome	reactome
+R-MMU-139853	Mus musculus: Elevation of cytosolic Ca2+ levels	reactome	reactome
+R-MMU-211976	Mus musculus: Endogenous sterols	reactome	reactome
+R-MMU-917729	Mus musculus: Endosomal Sorting Complex Required For Transport (ESCRT)	reactome	reactome
+R-MMU-1236977	Mus musculus: Endosomal/Vacuolar pathway	reactome	reactome
+R-MMU-380972	Mus musculus: Energy dependent regulation of mTOR by LKB1-AMPK	reactome	reactome
+R-MMU-379398	Mus musculus: Enzymatic degradation of Dopamine by monoamine oxidase	reactome	reactome
+R-MMU-379397	Mus musculus: Enzymatic degradation of dopamine by COMT	reactome	reactome
+R-MMU-3928664	Mus musculus: Ephrin signaling	reactome	reactome
+R-MMU-212165	Mus musculus: Epigenetic regulation of gene expression	reactome	reactome
+R-MMU-1237044	Mus musculus: Erythrocytes take up carbon dioxide and release oxygen	reactome	reactome
+R-MMU-1247673	Mus musculus: Erythrocytes take up oxygen and release carbon dioxide	reactome	reactome
+R-MMU-9027276	Mus musculus: Erythropoietin activates Phosphoinositide-3-kinase (PI3K)	reactome	reactome
+R-MMU-9027284	Mus musculus: Erythropoietin activates RAS	reactome	reactome
+R-MMU-2468052	Mus musculus: Establishment of Sister Chromatid Cohesion	reactome	reactome
+R-MMU-193144	Mus musculus: Estrogen biosynthesis	reactome	reactome
+R-MMU-9018519	Mus musculus: Estrogen-dependent gene expression	reactome	reactome
+R-MMU-9634638	Mus musculus: Estrogen-dependent nuclear events downstream of ESR-membrane signaling	reactome	reactome
+R-MMU-9634635	Mus musculus: Estrogen-stimulated signaling through PRKCZ	reactome	reactome
+R-MMU-71384	Mus musculus: Ethanol oxidation	reactome	reactome
+R-MMU-156842	Mus musculus: Eukaryotic Translation Elongation	reactome	reactome
+R-MMU-72613	Mus musculus: Eukaryotic Translation Initiation	reactome	reactome
+R-MMU-72764	Mus musculus: Eukaryotic Translation Termination	reactome	reactome
+R-MMU-8941413	Mus musculus: Events associated with phagocytolytic activity of PMN cells	reactome	reactome
+R-MMU-9036866	Mus musculus: Expression and Processing of Neurotrophins	reactome	reactome
+R-MMU-180786	Mus musculus: Extension of Telomeres	reactome	reactome
+R-MMU-9009391	Mus musculus: Extra-nuclear estrogen signaling	reactome	reactome
+R-MMU-1474244	Mus musculus: Extracellular matrix organization	reactome	reactome
+R-MMU-140834	Mus musculus: Extrinsic Pathway of Fibrin Clot Formation	reactome	reactome
+R-MMU-8854050	Mus musculus: FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	reactome	reactome
+R-MMU-2871809	Mus musculus: FCERI mediated Ca+2 mobilization	reactome	reactome
+R-MMU-2871796	Mus musculus: FCERI mediated MAPK activation	reactome	reactome
+R-MMU-2871837	Mus musculus: FCERI mediated NF-kB activation	reactome	reactome
+R-MMU-2029481	Mus musculus: FCGR activation	reactome	reactome
+R-MMU-190242	Mus musculus: FGFR1 ligand binding and activation	reactome	reactome
+R-MMU-190370	Mus musculus: FGFR1b ligand binding and activation	reactome	reactome
+R-MMU-190374	Mus musculus: FGFR1c and Klotho ligand binding and activation	reactome	reactome
+R-MMU-190373	Mus musculus: FGFR1c ligand binding and activation	reactome	reactome
+R-MMU-6803529	Mus musculus: FGFR2 alternative splicing	reactome	reactome
+R-MMU-190241	Mus musculus: FGFR2 ligand binding and activation	reactome	reactome
+R-MMU-190377	Mus musculus: FGFR2b ligand binding and activation	reactome	reactome
+R-MMU-190375	Mus musculus: FGFR2c ligand binding and activation	reactome	reactome
+R-MMU-190239	Mus musculus: FGFR3 ligand binding and activation	reactome	reactome
+R-MMU-190371	Mus musculus: FGFR3b ligand binding and activation	reactome	reactome
+R-MMU-190372	Mus musculus: FGFR3c ligand binding and activation	reactome	reactome
+R-MMU-190322	Mus musculus: FGFR4 ligand binding and activation	reactome	reactome
+R-MMU-5658623	Mus musculus: FGFRL1 modulation of FGFR1 signaling	reactome	reactome
+R-MMU-9607240	Mus musculus: FLT3 Signaling	reactome	reactome
+R-MMU-217271	Mus musculus: FMO oxidises nucleophiles	reactome	reactome
+R-MMU-9614085	Mus musculus: FOXO-mediated transcription	reactome	reactome
+R-MMU-9617828	Mus musculus: FOXO-mediated transcription of cell cycle genes	reactome	reactome
+R-MMU-9615017	"Mus musculus: FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"	reactome	reactome
+R-MMU-5654693	Mus musculus: FRS-mediated FGFR1 signaling	reactome	reactome
+R-MMU-5654700	Mus musculus: FRS-mediated FGFR2 signaling	reactome	reactome
+R-MMU-5654706	Mus musculus: FRS-mediated FGFR3 signaling	reactome	reactome
+R-MMU-5654712	Mus musculus: FRS-mediated FGFR4 signaling	reactome	reactome
+R-MMU-983231	Mus musculus: Factors involved in megakaryocyte development and platelet production	reactome	reactome
+R-MMU-6783310	Mus musculus: Fanconi Anemia Pathway	reactome	reactome
+R-MMU-75157	Mus musculus: FasL/ CD95L signaling	reactome	reactome
+R-MMU-434316	Mus musculus: Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	reactome	reactome
+R-MMU-8978868	Mus musculus: Fatty acid metabolism	reactome	reactome
+R-MMU-211935	Mus musculus: Fatty acids	reactome	reactome
+R-MMU-75105	Mus musculus: Fatty acyl-CoA biosynthesis	reactome	reactome
+R-MMU-2454202	Mus musculus: Fc epsilon receptor (FCERI) signaling	reactome	reactome
+R-MMU-2029480	Mus musculus: Fcgamma receptor (FCGR) dependent phagocytosis	reactome	reactome
+R-MMU-1187000	Mus musculus: Fertilization	reactome	reactome
+R-MMU-1566977	Mus musculus: Fibronectin matrix formation	reactome	reactome
+R-MMU-2855086	Mus musculus: Ficolins bind to repetitive carbohydrate structures on the target cell surface	reactome	reactome
+R-MMU-163210	Mus musculus: Formation of ATP by chemiosmotic coupling	reactome	reactome
+R-MMU-140877	Mus musculus: Formation of Fibrin Clot (Clotting Cascade)	reactome	reactome
+R-MMU-5696395	Mus musculus: Formation of Incision Complex in GG-NER	reactome	reactome
+R-MMU-112382	Mus musculus: Formation of RNA Pol II elongation complex 	reactome	reactome
+R-MMU-2559584	Mus musculus: Formation of Senescence-Associated Heterochromatin Foci (SAHF)	reactome	reactome
+R-MMU-6781823	Mus musculus: Formation of TC-NER Pre-Incision Complex	reactome	reactome
+R-MMU-72689	Mus musculus: Formation of a pool of free 40S subunits	reactome	reactome
+R-MMU-196025	Mus musculus: Formation of annular gap junctions	reactome	reactome
+R-MMU-111458	Mus musculus: Formation of apoptosome	reactome	reactome
+R-MMU-77042	Mus musculus: Formation of editosomes by ADAR proteins	reactome	reactome
+R-MMU-113418	Mus musculus: Formation of the Early Elongation Complex	reactome	reactome
+R-MMU-75094	Mus musculus: Formation of the Editosome	reactome	reactome
+R-MMU-173599	"Mus musculus: Formation of the active cofactor, UDP-glucuronate"	reactome	reactome
+R-MMU-201722	Mus musculus: Formation of the beta-catenin:TCF transactivating complex	reactome	reactome
+R-MMU-6809371	Mus musculus: Formation of the cornified envelope	reactome	reactome
+R-MMU-72695	"Mus musculus: Formation of the ternary complex, and subsequently, the 43S complex"	reactome	reactome
+R-MMU-5661270	Mus musculus: Formation of xylulose-5-phosphate	reactome	reactome
+R-MMU-444473	Mus musculus: Formyl peptide receptors bind formyl peptides and many other ligands	reactome	reactome
+R-MMU-444209	Mus musculus: Free fatty acid receptors	reactome	reactome
+R-MMU-400451	Mus musculus: Free fatty acids regulate insulin secretion	reactome	reactome
+R-MMU-170968	Mus musculus: Frs2-mediated activation	reactome	reactome
+R-MMU-5652227	Mus musculus: Fructose biosynthesis	reactome	reactome
+R-MMU-70350	Mus musculus: Fructose catabolism	reactome	reactome
+R-MMU-5652084	Mus musculus: Fructose metabolism	reactome	reactome
+R-MMU-416482	Mus musculus: G alpha (12/13) signalling events	reactome	reactome
+R-MMU-418594	Mus musculus: G alpha (i) signalling events	reactome	reactome
+R-MMU-416476	Mus musculus: G alpha (q) signalling events	reactome	reactome
+R-MMU-418555	Mus musculus: G alpha (s) signalling events	reactome	reactome
+R-MMU-418597	Mus musculus: G alpha (z) signalling events	reactome	reactome
+R-MMU-8964315	Mus musculus: G beta:gamma signalling through BTK	reactome	reactome
+R-MMU-8964616	Mus musculus: G beta:gamma signalling through CDC42	reactome	reactome
+R-MMU-392451	Mus musculus: G beta:gamma signalling through PI3Kgamma	reactome	reactome
+R-MMU-418217	Mus musculus: G beta:gamma signalling through PLC beta	reactome	reactome
+R-MMU-1296059	Mus musculus: G protein gated Potassium channels	reactome	reactome
+R-MMU-202040	Mus musculus: G-protein activation	reactome	reactome
+R-MMU-397795	Mus musculus: G-protein beta:gamma signalling	reactome	reactome
+R-MMU-112040	Mus musculus: G-protein mediated events	reactome	reactome
+R-MMU-1538133	Mus musculus: G0 and Early G1	reactome	reactome
+R-MMU-69236	Mus musculus: G1 Phase	reactome	reactome
+R-MMU-69615	Mus musculus: G1/S DNA Damage Checkpoints	reactome	reactome
+R-MMU-69206	Mus musculus: G1/S Transition	reactome	reactome
+R-MMU-68911	Mus musculus: G2 Phase	reactome	reactome
+R-MMU-69481	Mus musculus: G2/M Checkpoints	reactome	reactome
+R-MMU-69473	Mus musculus: G2/M DNA damage checkpoint	reactome	reactome
+R-MMU-69478	Mus musculus: G2/M DNA replication checkpoint	reactome	reactome
+R-MMU-69275	Mus musculus: G2/M Transition	reactome	reactome
+R-MMU-180292	Mus musculus: GAB1 signalosome	reactome	reactome
+R-MMU-977444	Mus musculus: GABA B receptor activation	reactome	reactome
+R-MMU-977443	Mus musculus: GABA receptor activation	reactome	reactome
+R-MMU-888568	Mus musculus: GABA synthesis	reactome	reactome
+R-MMU-888590	"Mus musculus: GABA synthesis, release, reuptake and degradation"	reactome	reactome
+R-MMU-6787639	Mus musculus: GDP-fucose biosynthesis	reactome	reactome
+R-MMU-5610785	Mus musculus: GLI3 is processed to GLI3R by the proteasome	reactome	reactome
+R-MMU-430116	Mus musculus: GP1b-IX-V activation signalling	reactome	reactome
+R-MMU-388396	Mus musculus: GPCR downstream signalling	reactome	reactome
+R-MMU-500792	Mus musculus: GPCR ligand binding	reactome	reactome
+R-MMU-114604	Mus musculus: GPVI-mediated activation cascade	reactome	reactome
+R-MMU-179812	Mus musculus: GRB2 events in EGFR signaling	reactome	reactome
+R-MMU-1963640	Mus musculus: GRB2 events in ERBB2 signaling	reactome	reactome
+R-MMU-354194	Mus musculus: GRB2:SOS provides linkage to MAPK signaling for Integrins 	reactome	reactome
+R-MMU-1306955	Mus musculus: GRB7 events in ERBB2 signaling	reactome	reactome
+R-MMU-72706	Mus musculus: GTP hydrolysis and joining of the 60S ribosomal subunit	reactome	reactome
+R-MMU-70370	Mus musculus: Galactose catabolism	reactome	reactome
+R-MMU-163841	"Mus musculus: Gamma carboxylation, hypusine formation and arylsulfatase activation"	reactome	reactome
+R-MMU-159740	Mus musculus: Gamma-carboxylation of protein precursors	reactome	reactome
+R-MMU-159854	"Mus musculus: Gamma-carboxylation, transport, and amino-terminal cleavage of proteins"	reactome	reactome
+R-MMU-190861	Mus musculus: Gap junction assembly	reactome	reactome
+R-MMU-190873	Mus musculus: Gap junction degradation	reactome	reactome
+R-MMU-190828	Mus musculus: Gap junction trafficking	reactome	reactome
+R-MMU-157858	Mus musculus: Gap junction trafficking and regulation	reactome	reactome
+R-MMU-5696397	Mus musculus: Gap-filling DNA repair synthesis and ligation in GG-NER	reactome	reactome
+R-MMU-6782210	Mus musculus: Gap-filling DNA repair synthesis and ligation in TC-NER	reactome	reactome
+R-MMU-881907	Mus musculus: Gastrin-CREB signalling pathway via PKC and MAPK	reactome	reactome
+R-MMU-211000	Mus musculus: Gene Silencing by RNA	reactome	reactome
+R-MMU-74160	Mus musculus: Gene expression (Transcription)	reactome	reactome
+R-MMU-202433	Mus musculus: Generation of second messenger molecules	reactome	reactome
+R-MMU-212436	Mus musculus: Generic Transcription Pathway	reactome	reactome
+R-MMU-5696399	Mus musculus: Global Genome Nucleotide Excision Repair (GG-NER)	reactome	reactome
+R-MMU-163359	Mus musculus: Glucagon signaling in metabolic regulation	reactome	reactome
+R-MMU-381676	Mus musculus: Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	reactome	reactome
+R-MMU-420092	Mus musculus: Glucagon-type ligand receptors	reactome	reactome
+R-MMU-194002	Mus musculus: Glucocorticoid biosynthesis	reactome	reactome
+R-MMU-70263	Mus musculus: Gluconeogenesis	reactome	reactome
+R-MMU-70326	Mus musculus: Glucose metabolism	reactome	reactome
+R-MMU-156588	Mus musculus: Glucuronidation	reactome	reactome
+R-MMU-210500	Mus musculus: Glutamate Neurotransmitter Release Cycle	reactome	reactome
+R-MMU-8964539	Mus musculus: Glutamate and glutamine metabolism	reactome	reactome
+R-MMU-399721	"Mus musculus: Glutamate binding, activation of AMPA receptors and synaptic plasticity"	reactome	reactome
+R-MMU-156590	Mus musculus: Glutathione conjugation	reactome	reactome
+R-MMU-174403	Mus musculus: Glutathione synthesis and recycling	reactome	reactome
+R-MMU-1483206	Mus musculus: Glycerophospholipid biosynthesis	reactome	reactome
+R-MMU-6814848	Mus musculus: Glycerophospholipid catabolism	reactome	reactome
+R-MMU-6783984	Mus musculus: Glycine degradation	reactome	reactome
+R-MMU-70221	Mus musculus: Glycogen breakdown (glycogenolysis)	reactome	reactome
+R-MMU-8982491	Mus musculus: Glycogen metabolism	reactome	reactome
+R-MMU-3322077	Mus musculus: Glycogen synthesis	reactome	reactome
+R-MMU-70171	Mus musculus: Glycolysis	reactome	reactome
+R-MMU-209822	Mus musculus: Glycoprotein hormones	reactome	reactome
+R-MMU-1630316	Mus musculus: Glycosaminoglycan metabolism	reactome	reactome
+R-MMU-1660662	Mus musculus: Glycosphingolipid metabolism	reactome	reactome
+R-MMU-389661	Mus musculus: Glyoxylate metabolism and glycine degradation	reactome	reactome
+R-MMU-432722	Mus musculus: Golgi Associated Vesicle Biogenesis	reactome	reactome
+R-MMU-162658	Mus musculus: Golgi Cisternae Pericentriolar Stack Reorganization	reactome	reactome
+R-MMU-8856688	Mus musculus: Golgi-to-ER retrograde transport	reactome	reactome
+R-MMU-982772	Mus musculus: Growth hormone receptor signaling	reactome	reactome
+R-MMU-3214847	Mus musculus: HATs acetylate histones	reactome	reactome
+R-MMU-1296061	Mus musculus: HCN channels	reactome	reactome
+R-MMU-8963896	Mus musculus: HDL assembly	reactome	reactome
+R-MMU-8964011	Mus musculus: HDL clearance	reactome	reactome
+R-MMU-8964058	Mus musculus: HDL remodeling	reactome	reactome
+R-MMU-3214842	Mus musculus: HDMs demethylate histones	reactome	reactome
+R-MMU-5685942	Mus musculus: HDR through Homologous Recombination (HRR)	reactome	reactome
+R-MMU-5693567	Mus musculus: HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	reactome	reactome
+R-MMU-5685939	Mus musculus: HDR through MMEJ (alt-NHEJ)	reactome	reactome
+R-MMU-5685938	Mus musculus: HDR through Single Strand Annealing (SSA)	reactome	reactome
+R-MMU-2022928	Mus musculus: HS-GAG biosynthesis	reactome	reactome
+R-MMU-2024096	Mus musculus: HS-GAG degradation	reactome	reactome
+R-MMU-3371511	Mus musculus: HSF1 activation	reactome	reactome
+R-MMU-3371571	Mus musculus: HSF1-dependent transactivation	reactome	reactome
+R-MMU-3371497	Mus musculus: HSP90 chaperone cycle for steroid hormone receptors (SHR)	reactome	reactome
+R-MMU-5610787	Mus musculus: Hedgehog 'off' state	reactome	reactome
+R-MMU-5632684	Mus musculus: Hedgehog 'on' state	reactome	reactome
+R-MMU-5358346	Mus musculus: Hedgehog ligand biogenesis	reactome	reactome
+R-MMU-189451	Mus musculus: Heme biosynthesis	reactome	reactome
+R-MMU-189483	Mus musculus: Heme degradation	reactome	reactome
+R-MMU-109582	Mus musculus: Hemostasis	reactome	reactome
+R-MMU-1638091	Mus musculus: Heparan sulfate/heparin (HS-GAG) metabolism	reactome	reactome
+R-MMU-629597	Mus musculus: Highly calcium permeable nicotinic acetylcholine receptors	reactome	reactome
+R-MMU-629594	Mus musculus: Highly calcium permeable postsynaptic nicotinic acetylcholine receptors	reactome	reactome
+R-MMU-629587	Mus musculus: Highly sodium permeable acetylcholine nicotinic receptors	reactome	reactome
+R-MMU-390650	Mus musculus: Histamine receptors	reactome	reactome
+R-MMU-70921	Mus musculus: Histidine catabolism	reactome	reactome
+R-MMU-5693579	Mus musculus: Homologous DNA Pairing and Strand Exchange	reactome	reactome
+R-MMU-5693538	Mus musculus: Homology Directed Repair	reactome	reactome
+R-MMU-375281	Mus musculus: Hormone ligand-binding receptors	reactome	reactome
+R-MMU-450520	Mus musculus: HuR (ELAVL1) binds and stabilizes mRNA	reactome	reactome
+R-MMU-2142850	Mus musculus: Hyaluronan biosynthesis and export	reactome	reactome
+R-MMU-2142845	Mus musculus: Hyaluronan metabolism	reactome	reactome
+R-MMU-2160916	Mus musculus: Hyaluronan uptake and degradation	reactome	reactome
+R-MMU-1483115	Mus musculus: Hydrolysis of LPC	reactome	reactome
+R-MMU-1483152	Mus musculus: Hydrolysis of LPE	reactome	reactome
+R-MMU-3296197	Mus musculus: Hydroxycarboxylic acid-binding receptors	reactome	reactome
+R-MMU-204626	Mus musculus: Hypusine synthesis from eIF5A-lysine	reactome	reactome
+R-MMU-2428924	Mus musculus: IGF1R signaling cascade	reactome	reactome
+R-MMU-937041	Mus musculus: IKK complex recruitment mediated by RIP1	reactome	reactome
+R-MMU-6788467	Mus musculus: IL-6-type cytokine receptor ligand interactions	reactome	reactome
+R-MMU-937039	Mus musculus: IRAK1 recruits IKK complex	reactome	reactome
+R-MMU-975144	Mus musculus: IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation	reactome	reactome
+R-MMU-937042	Mus musculus: IRAK2 mediated activation of TAK1 complex	reactome	reactome
+R-MMU-975163	Mus musculus: IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation	reactome	reactome
+R-MMU-381070	Mus musculus: IRE1alpha activates chaperones	reactome	reactome
+R-MMU-1606341	Mus musculus: IRF3 mediated activation of type 1 IFN	reactome	reactome
+R-MMU-3270619	Mus musculus: IRF3-mediated induction of type I IFN	reactome	reactome
+R-MMU-74713	Mus musculus: IRS activation	reactome	reactome
+R-MMU-112399	Mus musculus: IRS-mediated signalling	reactome	reactome
+R-MMU-2428928	Mus musculus: IRS-related events triggered by IGF1R	reactome	reactome
+R-MMU-1169408	Mus musculus: ISG15 antiviral mechanism	reactome	reactome
+R-MMU-168256	Mus musculus: Immune System	reactome	reactome
+R-MMU-198933	Mus musculus: Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	reactome	reactome
+R-MMU-200425	Mus musculus: Import of palmitoyl-CoA into the mitochondrial matrix	reactome	reactome
+R-MMU-141430	Mus musculus: Inactivation of APC/C via direct inhibition of the APC/C complex	reactome	reactome
+R-MMU-2514859	"Mus musculus: Inactivation, recovery and regulation of the phototransduction cascade"	reactome	reactome
+R-MMU-400508	"Mus musculus: Incretin synthesis, secretion, and inactivation"	reactome	reactome
+R-MMU-622312	Mus musculus: Inflammasomes	reactome	reactome
+R-MMU-997272	Mus musculus: Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	reactome	reactome
+R-MMU-165181	Mus musculus: Inhibition of TSC complex formation by PKB	reactome	reactome
+R-MMU-113501	Mus musculus: Inhibition of replication initiation of damaged DNA by RB1/E2F1	reactome	reactome
+R-MMU-141405	Mus musculus: Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	reactome	reactome
+R-MMU-166663	Mus musculus: Initial triggering of complement	reactome	reactome
+R-MMU-2995383	Mus musculus: Initiation of Nuclear Envelope Reformation	reactome	reactome
+R-MMU-168249	Mus musculus: Innate Immune System	reactome	reactome
+R-MMU-1483249	Mus musculus: Inositol phosphate metabolism	reactome	reactome
+R-MMU-429593	Mus musculus: Inositol transporters	reactome	reactome
+R-MMU-9609523	Mus musculus: Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	reactome	reactome
+R-MMU-163754	Mus musculus: Insulin effects increased synthesis of Xylulose-5-Phosphate	reactome	reactome
+R-MMU-264876	Mus musculus: Insulin processing	reactome	reactome
+R-MMU-77387	Mus musculus: Insulin receptor recycling	reactome	reactome
+R-MMU-74751	Mus musculus: Insulin receptor signalling cascade	reactome	reactome
+R-MMU-163685	Mus musculus: Integration of energy metabolism	reactome	reactome
+R-MMU-354192	Mus musculus: Integrin alphaIIb beta3 signaling	reactome	reactome
+R-MMU-216083	Mus musculus: Integrin cell surface interactions	reactome	reactome
+R-MMU-9006921	Mus musculus: Integrin signaling	reactome	reactome
+R-MMU-2534343	Mus musculus: Interaction With Cumulus Cells And The Zona Pellucida	reactome	reactome
+R-MMU-445095	Mus musculus: Interaction between L1 and Ankyrins	reactome	reactome
+R-MMU-8854521	Mus musculus: Interaction between PHLDA1 and AURKA	reactome	reactome
+R-MMU-880009	Mus musculus: Interconversion of 2-oxoglutarate and 2-hydroxyglutarate	reactome	reactome
+R-MMU-499943	Mus musculus: Interconversion of nucleotide di- and triphosphates	reactome	reactome
+R-MMU-351200	Mus musculus: Interconversion of polyamines	reactome	reactome
+R-MMU-913531	Mus musculus: Interferon Signaling	reactome	reactome
+R-MMU-909733	Mus musculus: Interferon alpha/beta signaling	reactome	reactome
+R-MMU-877300	Mus musculus: Interferon gamma signaling	reactome	reactome
+R-MMU-912526	Mus musculus: Interleukin receptor SHC signaling	reactome	reactome
+R-MMU-446652	Mus musculus: Interleukin-1 family signaling	reactome	reactome
+R-MMU-448706	Mus musculus: Interleukin-1 processing	reactome	reactome
+R-MMU-9020702	Mus musculus: Interleukin-1 signaling	reactome	reactome
+R-MMU-6783783	Mus musculus: Interleukin-10 signaling	reactome	reactome
+R-MMU-447115	Mus musculus: Interleukin-12 family signaling	reactome	reactome
+R-MMU-9020591	Mus musculus: Interleukin-12 signaling	reactome	reactome
+R-MMU-8983432	Mus musculus: Interleukin-15 signaling	reactome	reactome
+R-MMU-448424	Mus musculus: Interleukin-17 signaling	reactome	reactome
+R-MMU-451927	Mus musculus: Interleukin-2 family signaling	reactome	reactome
+R-MMU-9020558	Mus musculus: Interleukin-2 signaling	reactome	reactome
+R-MMU-8854691	Mus musculus: Interleukin-20 family signaling	reactome	reactome
+R-MMU-9020958	Mus musculus: Interleukin-21 signaling	reactome	reactome
+R-MMU-9020933	Mus musculus: Interleukin-23 signaling	reactome	reactome
+R-MMU-9020956	Mus musculus: Interleukin-27 signaling	reactome	reactome
+R-MMU-512988	"Mus musculus: Interleukin-3, Interleukin-5 and GM-CSF signaling"	reactome	reactome
+R-MMU-9014843	Mus musculus: Interleukin-33 signaling	reactome	reactome
+R-MMU-8984722	Mus musculus: Interleukin-35 Signalling	reactome	reactome
+R-MMU-9014826	Mus musculus: Interleukin-36 pathway	reactome	reactome
+R-MMU-9008059	Mus musculus: Interleukin-37 signaling	reactome	reactome
+R-MMU-9007892	Mus musculus: Interleukin-38 signaling	reactome	reactome
+R-MMU-6785807	Mus musculus: Interleukin-4 and Interleukin-13 signaling	reactome	reactome
+R-MMU-6783589	Mus musculus: Interleukin-6 family signaling	reactome	reactome
+R-MMU-1059683	Mus musculus: Interleukin-6 signaling	reactome	reactome
+R-MMU-1266695	Mus musculus: Interleukin-7 signaling	reactome	reactome
+R-MMU-8985947	Mus musculus: Interleukin-9 signaling	reactome	reactome
+R-MMU-8963676	Mus musculus: Intestinal absorption	reactome	reactome
+R-MMU-8981373	Mus musculus: Intestinal hexose absorption	reactome	reactome
+R-MMU-8963678	Mus musculus: Intestinal lipid absorption	reactome	reactome
+R-MMU-6811442	Mus musculus: Intra-Golgi and retrograde Golgi-to-ER traffic	reactome	reactome
+R-MMU-6811438	Mus musculus: Intra-Golgi traffic	reactome	reactome
+R-MMU-434313	Mus musculus: Intracellular metabolism of fatty acids regulates insulin secretion	reactome	reactome
+R-MMU-8981607	Mus musculus: Intracellular oxygen transport	reactome	reactome
+R-MMU-9006925	Mus musculus: Intracellular signaling by second messengers	reactome	reactome
+R-MMU-5620924	Mus musculus: Intraflagellar transport	reactome	reactome
+R-MMU-109606	Mus musculus: Intrinsic Pathway for Apoptosis	reactome	reactome
+R-MMU-140837	Mus musculus: Intrinsic Pathway of Fibrin Clot Formation	reactome	reactome
+R-MMU-8941237	Mus musculus: Invadopodia formation	reactome	reactome
+R-MMU-1296065	Mus musculus: Inwardly rectifying K+ channels	reactome	reactome
+R-MMU-983712	Mus musculus: Ion channel transport	reactome	reactome
+R-MMU-5578775	Mus musculus: Ion homeostasis	reactome	reactome
+R-MMU-6803544	Mus musculus: Ion influx/efflux at host-pathogen interface	reactome	reactome
+R-MMU-936837	Mus musculus: Ion transport by P-type ATPases	reactome	reactome
+R-MMU-451306	Mus musculus: Ionotropic activity of kainate receptors	reactome	reactome
+R-MMU-917937	Mus musculus: Iron uptake and transport	reactome	reactome
+R-MMU-450321	Mus musculus: JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	reactome	reactome
+R-MMU-5689877	Mus musculus: Josephin domain DUBs	reactome	reactome
+R-MMU-450604	Mus musculus: KSRP (KHSRP) binds and destabilizes mRNA	reactome	reactome
+R-MMU-2022854	Mus musculus: Keratan sulfate biosynthesis	reactome	reactome
+R-MMU-2022857	Mus musculus: Keratan sulfate degradation	reactome	reactome
+R-MMU-1638074	Mus musculus: Keratan sulfate/keratin metabolism	reactome	reactome
+R-MMU-6805567	Mus musculus: Keratinization	reactome	reactome
+R-MMU-74182	Mus musculus: Ketone body metabolism	reactome	reactome
+R-MMU-983189	Mus musculus: Kinesins	reactome	reactome
+R-MMU-156827	Mus musculus: L13a-mediated translational silencing of Ceruloplasmin expression	reactome	reactome
+R-MMU-373760	Mus musculus: L1CAM interactions	reactome	reactome
+R-MMU-8964038	Mus musculus: LDL clearance	reactome	reactome
+R-MMU-8964041	Mus musculus: LDL remodeling	reactome	reactome
+R-MMU-5682910	Mus musculus: LGI-ADAM interactions	reactome	reactome
+R-MMU-3134973	Mus musculus: LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production	reactome	reactome
+R-MMU-5653890	Mus musculus: Lactose synthesis	reactome	reactome
+R-MMU-69186	Mus musculus: Lagging Strand Synthesis	reactome	reactome
+R-MMU-3000157	Mus musculus: Laminin interactions	reactome	reactome
+R-MMU-69109	Mus musculus: Leading Strand Synthesis	reactome	reactome
+R-MMU-166662	Mus musculus: Lectin pathway of complement activation	reactome	reactome
+R-MMU-391906	Mus musculus: Leukotriene receptors	reactome	reactome
+R-MMU-9037629	Mus musculus: Lewis blood group biosynthesis	reactome	reactome
+R-MMU-5632681	Mus musculus: Ligand-receptor interactions	reactome	reactome
+R-MMU-2046105	Mus musculus: Linoleic acid (LA) metabolism	reactome	reactome
+R-MMU-8964572	Mus musculus: Lipid particle organization	reactome	reactome
+R-MMU-9613354	Mus musculus: Lipophagy	reactome	reactome
+R-MMU-446343	Mus musculus: Localization of the PINCH-ILK-PARVIN complex to focal adhesions	reactome	reactome
+R-MMU-9620244	Mus musculus: Long-term potentiation	reactome	reactome
+R-MMU-380259	Mus musculus: Loss of Nlp from mitotic centrosomes	reactome	reactome
+R-MMU-380284	Mus musculus: Loss of proteins required for interphase microtubule organization from the centrosome	reactome	reactome
+R-MMU-71064	Mus musculus: Lysine catabolism	reactome	reactome
+R-MMU-8853383	Mus musculus: Lysosomal oligosaccharide catabolism	reactome	reactome
+R-MMU-432720	Mus musculus: Lysosome Vesicle Biogenesis	reactome	reactome
+R-MMU-419408	Mus musculus: Lysosphingolipid and LPA receptors	reactome	reactome
+R-MMU-68886	Mus musculus: M Phase	reactome	reactome
+R-MMU-450294	Mus musculus: MAP kinase activation	reactome	reactome
+R-MMU-5674135	Mus musculus: MAP2K and MAPK activation	reactome	reactome
+R-MMU-5684264	Mus musculus: MAP3K8 (TPL2)-dependent MAPK1/3 activation	reactome	reactome
+R-MMU-5683057	Mus musculus: MAPK family signaling cascades	reactome	reactome
+R-MMU-450282	Mus musculus: MAPK targets/ Nuclear events mediated by MAP kinases	reactome	reactome
+R-MMU-112411	Mus musculus: MAPK1 (ERK2) activation	reactome	reactome
+R-MMU-5684996	Mus musculus: MAPK1/MAPK3 signaling	reactome	reactome
+R-MMU-110056	Mus musculus: MAPK3 (ERK1) activation	reactome	reactome
+R-MMU-5687128	Mus musculus: MAPK6/MAPK4 signaling	reactome	reactome
+R-MMU-2465910	Mus musculus: MASTL Facilitates Mitotic Progression	reactome	reactome
+R-MMU-6806942	Mus musculus: MET Receptor Activation	reactome	reactome
+R-MMU-8851907	Mus musculus: MET activates PI3K/AKT signaling	reactome	reactome
+R-MMU-8874081	Mus musculus: MET activates PTK2 signaling	reactome	reactome
+R-MMU-8865999	Mus musculus: MET activates PTPN11	reactome	reactome
+R-MMU-8875555	Mus musculus: MET activates RAP1 and RAC1	reactome	reactome
+R-MMU-8851805	Mus musculus: MET activates RAS signaling	reactome	reactome
+R-MMU-8875791	Mus musculus: MET activates STAT3	reactome	reactome
+R-MMU-8875513	Mus musculus: MET interacts with TNS proteins	reactome	reactome
+R-MMU-8875878	Mus musculus: MET promotes cell motility	reactome	reactome
+R-MMU-8875656	Mus musculus: MET receptor recycling	reactome	reactome
+R-MMU-2132295	Mus musculus: MHC class II antigen presentation	reactome	reactome
+R-MMU-1632852	Mus musculus: Macroautophagy	reactome	reactome
+R-MMU-6791226	Mus musculus: Major pathway of rRNA processing in the nucleolus and cytosol	reactome	reactome
+R-MMU-5662702	Mus musculus: Melanin biosynthesis	reactome	reactome
+R-MMU-199991	Mus musculus: Membrane Trafficking	reactome	reactome
+R-MMU-1430728	Mus musculus: Metabolism	reactome	reactome
+R-MMU-2022377	Mus musculus: Metabolism of Angiotensinogen to Angiotensins	reactome	reactome
+R-MMU-8953854	Mus musculus: Metabolism of RNA	reactome	reactome
+R-MMU-209776	Mus musculus: Metabolism of amine-derived hormones	reactome	reactome
+R-MMU-71291	Mus musculus: Metabolism of amino acids and derivatives	reactome	reactome
+R-MMU-71387	Mus musculus: Metabolism of carbohydrates	reactome	reactome
+R-MMU-8978934	Mus musculus: Metabolism of cofactors	reactome	reactome
+R-MMU-6806667	Mus musculus: Metabolism of fat-soluble vitamins	reactome	reactome
+R-MMU-196757	Mus musculus: Metabolism of folate and pterines	reactome	reactome
+R-MMU-5263617	Mus musculus: Metabolism of ingested MeSeO2H into MeSeH	reactome	reactome
+R-MMU-2408508	"Mus musculus: Metabolism of ingested SeMet, Sec, MeSec into H2Se"	reactome	reactome
+R-MMU-556833	Mus musculus: Metabolism of lipids	reactome	reactome
+R-MMU-202131	Mus musculus: Metabolism of nitric oxide: eNOS activation and regulation	reactome	reactome
+R-MMU-194441	Mus musculus: Metabolism of non-coding RNA	reactome	reactome
+R-MMU-15869	Mus musculus: Metabolism of nucleotides	reactome	reactome
+R-MMU-351202	Mus musculus: Metabolism of polyamines	reactome	reactome
+R-MMU-189445	Mus musculus: Metabolism of porphyrins	reactome	reactome
+R-MMU-392499	Mus musculus: Metabolism of proteins	reactome	reactome
+R-MMU-380612	Mus musculus: Metabolism of serotonin	reactome	reactome
+R-MMU-196071	Mus musculus: Metabolism of steroid hormones	reactome	reactome
+R-MMU-8957322	Mus musculus: Metabolism of steroids	reactome	reactome
+R-MMU-6806664	Mus musculus: Metabolism of vitamin K	reactome	reactome
+R-MMU-196854	Mus musculus: Metabolism of vitamins and cofactors	reactome	reactome
+R-MMU-196849	Mus musculus: Metabolism of water-soluble vitamins and cofactors	reactome	reactome
+R-MMU-425410	Mus musculus: Metal ion SLC transporters	reactome	reactome
+R-MMU-6799990	Mus musculus: Metal sequestration by antimicrobial proteins	reactome	reactome
+R-MMU-5689901	Mus musculus: Metalloprotease DUBs	reactome	reactome
+R-MMU-5661231	Mus musculus: Metallothioneins bind metals	reactome	reactome
+R-MMU-1237112	Mus musculus: Methionine salvage pathway	reactome	reactome
+R-MMU-156581	Mus musculus: Methylation	reactome	reactome
+R-MMU-203927	Mus musculus: MicroRNA (miRNA) biogenesis	reactome	reactome
+R-MMU-9615710	Mus musculus: Microautophagy	reactome	reactome
+R-MMU-190840	Mus musculus: Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	reactome	reactome
+R-MMU-193993	Mus musculus: Mineralocorticoid biosynthesis	reactome	reactome
+R-MMU-211958	Mus musculus: Miscellaneous substrates	reactome	reactome
+R-MMU-5223345	Mus musculus: Miscellaneous transport and binding events	reactome	reactome
+R-MMU-5358508	Mus musculus: Mismatch Repair	reactome	reactome
+R-MMU-5358606	Mus musculus: Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	reactome	reactome
+R-MMU-5358565	Mus musculus: Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	reactome	reactome
+R-MMU-1369007	Mus musculus: Mitochondrial ABC transporters	reactome	reactome
+R-MMU-77289	Mus musculus: Mitochondrial Fatty Acid Beta-Oxidation	reactome	reactome
+R-MMU-166187	Mus musculus: Mitochondrial Uncoupling Proteins	reactome	reactome
+R-MMU-1592230	Mus musculus: Mitochondrial biogenesis	reactome	reactome
+R-MMU-8949215	Mus musculus: Mitochondrial calcium ion transport	reactome	reactome
+R-MMU-1362409	Mus musculus: Mitochondrial iron-sulfur cluster biogenesis	reactome	reactome
+R-MMU-1268020	Mus musculus: Mitochondrial protein import	reactome	reactome
+R-MMU-379726	Mus musculus: Mitochondrial tRNA aminoacylation	reactome	reactome
+R-MMU-163282	Mus musculus: Mitochondrial transcription initiation	reactome	reactome
+R-MMU-163316	Mus musculus: Mitochondrial transcription termination	reactome	reactome
+R-MMU-5368287	Mus musculus: Mitochondrial translation	reactome	reactome
+R-MMU-5389840	Mus musculus: Mitochondrial translation elongation	reactome	reactome
+R-MMU-5419276	Mus musculus: Mitochondrial translation termination	reactome	reactome
+R-MMU-5205647	Mus musculus: Mitophagy	reactome	reactome
+R-MMU-68882	Mus musculus: Mitotic Anaphase	reactome	reactome
+R-MMU-453279	Mus musculus: Mitotic G1-G1/S phases	reactome	reactome
+R-MMU-453274	Mus musculus: Mitotic G2-G2/M phases	reactome	reactome
+R-MMU-2555396	Mus musculus: Mitotic Metaphase and Anaphase	reactome	reactome
+R-MMU-68881	Mus musculus: Mitotic Metaphase/Anaphase Transition	reactome	reactome
+R-MMU-68877	Mus musculus: Mitotic Prometaphase	reactome	reactome
+R-MMU-68875	Mus musculus: Mitotic Prophase	reactome	reactome
+R-MMU-69618	Mus musculus: Mitotic Spindle Checkpoint	reactome	reactome
+R-MMU-68884	Mus musculus: Mitotic Telophase/Cytokinesis	reactome	reactome
+R-MMU-2129379	Mus musculus: Molecules associated with elastic fibres	reactome	reactome
+R-MMU-947581	Mus musculus: Molybdenum cofactor biosynthesis	reactome	reactome
+R-MMU-427601	Mus musculus: Multifunctional anion exchangers	reactome	reactome
+R-MMU-390648	Mus musculus: Muscarinic acetylcholine receptors	reactome	reactome
+R-MMU-397014	Mus musculus: Muscle contraction	reactome	reactome
+R-MMU-975871	Mus musculus: MyD88 cascade initiated on plasma membrane	reactome	reactome
+R-MMU-975155	Mus musculus: MyD88 dependent cascade initiated on endosome	reactome	reactome
+R-MMU-166166	Mus musculus: MyD88-independent TLR4 cascade 	reactome	reactome
+R-MMU-166058	Mus musculus: MyD88:MAL(TIRAP) cascade initiated on plasma membrane	reactome	reactome
+R-MMU-525793	Mus musculus: Myogenesis	reactome	reactome
+R-MMU-975577	Mus musculus: N-Glycan antennae elongation	reactome	reactome
+R-MMU-975576	Mus musculus: N-glycan antennae elongation in the medial/trans-Golgi	reactome	reactome
+R-MMU-964739	Mus musculus: N-glycan trimming and elongation in the cis-Golgi	reactome	reactome
+R-MMU-532668	Mus musculus: N-glycan trimming in the ER and Calnexin/Calreticulin cycle	reactome	reactome
+R-MMU-205025	Mus musculus: NADE modulates death signalling	reactome	reactome
+R-MMU-389542	Mus musculus: NADPH regeneration	reactome	reactome
+R-MMU-375165	Mus musculus: NCAM signaling for neurite out-growth	reactome	reactome
+R-MMU-419037	Mus musculus: NCAM1 interactions	reactome	reactome
+R-MMU-209560	Mus musculus: NF-kB is activated and signals survival	reactome	reactome
+R-MMU-205017	Mus musculus: NFG and proNGF binds to p75NTR	reactome	reactome
+R-MMU-167060	Mus musculus: NGF processing	reactome	reactome
+R-MMU-5676590	Mus musculus: NIK-->noncanonical NF-kB signaling	reactome	reactome
+R-MMU-168638	Mus musculus: NOD1/2 Signaling Pathway	reactome	reactome
+R-MMU-203754	Mus musculus: NOSIP mediated eNOS trafficking	reactome	reactome
+R-MMU-203641	Mus musculus: NOSTRIN mediated eNOS trafficking	reactome	reactome
+R-MMU-2122947	Mus musculus: NOTCH1 Intracellular Domain Regulates Transcription	reactome	reactome
+R-MMU-9013507	Mus musculus: NOTCH3 Activation and Transmission of Signal to the Nucleus	reactome	reactome
+R-MMU-9013700	Mus musculus: NOTCH4 Activation and Transmission of Signal to the Nucleus	reactome	reactome
+R-MMU-9623433	Mus musculus: NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis	reactome	reactome
+R-MMU-9024446	Mus musculus: NR1H2 and NR1H3-mediated signaling	reactome	reactome
+R-MMU-9029569	Mus musculus: NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux	reactome	reactome
+R-MMU-193648	Mus musculus: NRAGE signals death through JNK	reactome	reactome
+R-MMU-205043	Mus musculus: NRIF signals cell death from the nucleus	reactome	reactome
+R-MMU-9034013	Mus musculus: NTF3 activates NTRK3 signaling	reactome	reactome
+R-MMU-9032759	Mus musculus: NTRK2 activates RAC1	reactome	reactome
+R-MMU-442660	Mus musculus: Na+/Cl- dependent neurotransmitter transporters	reactome	reactome
+R-MMU-420597	Mus musculus: Nectin/Necl  trans heterodimerization	reactome	reactome
+R-MMU-8951664	Mus musculus: Neddylation	reactome	reactome
+R-MMU-5250941	Mus musculus: Negative epigenetic regulation of rRNA expression	reactome	reactome
+R-MMU-5674499	Mus musculus: Negative feedback regulation of MAPK pathway	reactome	reactome
+R-MMU-5654726	Mus musculus: Negative regulation of FGFR1 signaling	reactome	reactome
+R-MMU-5654727	Mus musculus: Negative regulation of FGFR2 signaling	reactome	reactome
+R-MMU-5654732	Mus musculus: Negative regulation of FGFR3 signaling	reactome	reactome
+R-MMU-5654733	Mus musculus: Negative regulation of FGFR4 signaling	reactome	reactome
+R-MMU-5675221	Mus musculus: Negative regulation of MAPK pathway	reactome	reactome
+R-MMU-6807004	Mus musculus: Negative regulation of MET activity	reactome	reactome
+R-MMU-9604323	Mus musculus: Negative regulation of NOTCH4 signaling	reactome	reactome
+R-MMU-3772470	Mus musculus: Negative regulation of TCF-dependent signaling by WNT ligand antagonists	reactome	reactome
+R-MMU-8866904	Mus musculus: Negative regulation of activity of TFAP2 (AP-2) family transcription factors	reactome	reactome
+R-MMU-199418	Mus musculus: Negative regulation of the PI3K/AKT network	reactome	reactome
+R-MMU-936440	Mus musculus: Negative regulators of DDX58/IFIH1 signaling	reactome	reactome
+R-MMU-373753	Mus musculus: Nephrin family interactions	reactome	reactome
+R-MMU-373752	Mus musculus: Netrin-1 signaling	reactome	reactome
+R-MMU-6794361	Mus musculus: Neurexins and neuroligins	reactome	reactome
+R-MMU-447043	Mus musculus: Neurofascin interactions	reactome	reactome
+R-MMU-112316	Mus musculus: Neuronal System	reactome	reactome
+R-MMU-194306	Mus musculus: Neurophilin interactions with VEGF and VEGFR	reactome	reactome
+R-MMU-112311	Mus musculus: Neurotransmitter clearance	reactome	reactome
+R-MMU-112314	Mus musculus: Neurotransmitter receptors and postsynaptic signal transmission	reactome	reactome
+R-MMU-112310	Mus musculus: Neurotransmitter release cycle	reactome	reactome
+R-MMU-112313	Mus musculus: Neurotransmitter uptake and metabolism In glial cells	reactome	reactome
+R-MMU-6798695	Mus musculus: Neutrophil degranulation	reactome	reactome
+R-MMU-197264	Mus musculus: Nicotinamide salvaging	reactome	reactome
+R-MMU-196807	Mus musculus: Nicotinate metabolism	reactome	reactome
+R-MMU-392154	Mus musculus: Nitric oxide stimulates guanylate cyclase	reactome	reactome
+R-MMU-427413	Mus musculus: NoRC negatively regulates rRNA expression	reactome	reactome
+R-MMU-3000171	Mus musculus: Non-integrin membrane-ECM interactions	reactome	reactome
+R-MMU-9017802	Mus musculus: Noncanonical activation of NOTCH3	reactome	reactome
+R-MMU-5693571	Mus musculus: Nonhomologous End-Joining (NHEJ)	reactome	reactome
+R-MMU-975957	Mus musculus: Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	reactome	reactome
+R-MMU-975956	Mus musculus: Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	reactome	reactome
+R-MMU-927802	Mus musculus: Nonsense-Mediated Decay (NMD)	reactome	reactome
+R-MMU-181430	Mus musculus: Norepinephrine Neurotransmitter Release Cycle	reactome	reactome
+R-MMU-350054	Mus musculus: Notch-HLH transcription pathway	reactome	reactome
+R-MMU-2980766	Mus musculus: Nuclear Envelope Breakdown	reactome	reactome
+R-MMU-2995410	Mus musculus: Nuclear Envelope Reassembly	reactome	reactome
+R-MMU-198725	Mus musculus: Nuclear Events (kinase and transcription factor activation)	reactome	reactome
+R-MMU-3301854	Mus musculus: Nuclear Pore Complex (NPC) Disassembly	reactome	reactome
+R-MMU-383280	Mus musculus: Nuclear Receptor transcription pathway	reactome	reactome
+R-MMU-1251985	Mus musculus: Nuclear signaling by ERBB4	reactome	reactome
+R-MMU-8956320	Mus musculus: Nucleobase biosynthesis	reactome	reactome
+R-MMU-8956319	Mus musculus: Nucleobase catabolism	reactome	reactome
+R-MMU-774815	Mus musculus: Nucleosome assembly	reactome	reactome
+R-MMU-5696398	Mus musculus: Nucleotide Excision Repair	reactome	reactome
+R-MMU-8956321	Mus musculus: Nucleotide salvage	reactome	reactome
+R-MMU-168643	"Mus musculus: Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways"	reactome	reactome
+R-MMU-418038	Mus musculus: Nucleotide-like (purinergic) receptors	reactome	reactome
+R-MMU-5173214	Mus musculus: O-glycosylation of TSR domain-containing proteins	reactome	reactome
+R-MMU-5173105	Mus musculus: O-linked glycosylation	reactome	reactome
+R-MMU-913709	Mus musculus: O-linked glycosylation of mucins	reactome	reactome
+R-MMU-1480926	Mus musculus: O2/CO2 exchange in erythrocytes	reactome	reactome
+R-MMU-8983711	Mus musculus: OAS antiviral response	reactome	reactome
+R-MMU-381753	Mus musculus: Olfactory Signaling Pathway	reactome	reactome
+R-MMU-190704	Mus musculus: Oligomerization of connexins into connexons	reactome	reactome
+R-MMU-2559585	Mus musculus: Oncogene Induced Senescence	reactome	reactome
+R-MMU-111885	Mus musculus: Opioid Signalling	reactome	reactome
+R-MMU-419771	Mus musculus: Opsins	reactome	reactome
+R-MMU-68949	Mus musculus: Orc1 removal from chromatin	reactome	reactome
+R-MMU-389397	Mus musculus: Orexin and neuropeptides FF and QRFP bind to their respective receptors	reactome	reactome
+R-MMU-1852241	Mus musculus: Organelle biogenesis and maintenance	reactome	reactome
+R-MMU-561048	Mus musculus: Organic anion transport	reactome	reactome
+R-MMU-428643	Mus musculus: Organic anion transporters	reactome	reactome
+R-MMU-549127	Mus musculus: Organic cation transport	reactome	reactome
+R-MMU-549132	Mus musculus: Organic cation/anion/zwitterion transport	reactome	reactome
+R-MMU-449836	Mus musculus: Other interleukin signaling	reactome	reactome
+R-MMU-416700	Mus musculus: Other semaphorin interactions	reactome	reactome
+R-MMU-5689896	Mus musculus: Ovarian tumor domain proteases	reactome	reactome
+R-MMU-2559580	Mus musculus: Oxidative Stress Induced Senescence	reactome	reactome
+R-MMU-1234176	Mus musculus: Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	reactome	reactome
+R-MMU-417957	Mus musculus: P2Y receptors	reactome	reactome
+R-MMU-141334	Mus musculus: PAOs oxidise polyamines to amines	reactome	reactome
+R-MMU-5651801	Mus musculus: PCNA-Dependent Long Patch Base Excision Repair	reactome	reactome
+R-MMU-4086400	Mus musculus: PCP/CE pathway	reactome	reactome
+R-MMU-389948	Mus musculus: PD-1 signaling	reactome	reactome
+R-MMU-165160	Mus musculus: PDE3B signalling	reactome	reactome
+R-MMU-210990	Mus musculus: PECAM1 interactions	reactome	reactome
+R-MMU-381042	Mus musculus: PERK regulates gene expression	reactome	reactome
+R-MMU-1483255	Mus musculus: PI Metabolism	reactome	reactome
+R-MMU-1483196	Mus musculus: PI and PC transport between ER and Golgi membranes	reactome	reactome
+R-MMU-5654689	Mus musculus: PI-3K cascade:FGFR1	reactome	reactome
+R-MMU-5654695	Mus musculus: PI-3K cascade:FGFR2	reactome	reactome
+R-MMU-5654710	Mus musculus: PI-3K cascade:FGFR3	reactome	reactome
+R-MMU-5654720	Mus musculus: PI-3K cascade:FGFR4	reactome	reactome
+R-MMU-109704	Mus musculus: PI3K Cascade	reactome	reactome
+R-MMU-1963642	Mus musculus: PI3K events in ERBB2 signaling	reactome	reactome
+R-MMU-1250342	Mus musculus: PI3K events in ERBB4 signaling	reactome	reactome
+R-MMU-198203	Mus musculus: PI3K/AKT activation	reactome	reactome
+R-MMU-6811555	Mus musculus: PI5P Regulates TP53 Acetylation	reactome	reactome
+R-MMU-6811558	"Mus musculus: PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling"	reactome	reactome
+R-MMU-1257604	Mus musculus: PIP3 activates AKT signaling	reactome	reactome
+R-MMU-163615	Mus musculus: PKA activation	reactome	reactome
+R-MMU-164378	Mus musculus: PKA activation in glucagon signalling	reactome	reactome
+R-MMU-111931	Mus musculus: PKA-mediated phosphorylation of CREB	reactome	reactome
+R-MMU-163358	Mus musculus: PKA-mediated phosphorylation of key metabolic factors	reactome	reactome
+R-MMU-109703	Mus musculus: PKB-mediated events	reactome	reactome
+R-MMU-3214841	Mus musculus: PKMTs methylate histone lysines	reactome	reactome
+R-MMU-112043	Mus musculus: PLC beta mediated events	reactome	reactome
+R-MMU-110362	Mus musculus: POLB-Dependent Long Patch Base Excision Repair	reactome	reactome
+R-MMU-212300	Mus musculus: PRC2 methylates histones and DNA	reactome	reactome
+R-MMU-6807070	Mus musculus: PTEN Regulation	reactome	reactome
+R-MMU-8849474	Mus musculus: PTK6 Activates STAT3	reactome	reactome
+R-MMU-8849472	Mus musculus: PTK6 Down-Regulation	reactome	reactome
+R-MMU-8849470	Mus musculus: PTK6 Regulates Cell Cycle	reactome	reactome
+R-MMU-8849468	Mus musculus: PTK6 Regulates Proteins Involved in RNA Processing	reactome	reactome
+R-MMU-8849471	"Mus musculus: PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases"	reactome	reactome
+R-MMU-8849469	Mus musculus: PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	reactome	reactome
+R-MMU-8857538	Mus musculus: PTK6 promotes HIF1A stabilization	reactome	reactome
+R-MMU-171306	Mus musculus: Packaging Of Telomere Ends	reactome	reactome
+R-MMU-432047	Mus musculus: Passive transport by Aquaporins	reactome	reactome
+R-MMU-71336	Mus musculus: Pentose phosphate pathway	reactome	reactome
+R-MMU-156902	Mus musculus: Peptide chain elongation	reactome	reactome
+R-MMU-209952	Mus musculus: Peptide hormone biosynthesis	reactome	reactome
+R-MMU-2980736	Mus musculus: Peptide hormone metabolism	reactome	reactome
+R-MMU-375276	Mus musculus: Peptide ligand-binding receptors	reactome	reactome
+R-MMU-390918	Mus musculus: Peroxisomal lipid metabolism	reactome	reactome
+R-MMU-9033241	Mus musculus: Peroxisomal protein import	reactome	reactome
+R-MMU-5576892	Mus musculus: Phase 0 - rapid depolarisation	reactome	reactome
+R-MMU-5576894	Mus musculus: Phase 1 - inactivation of fast Na+ channels	reactome	reactome
+R-MMU-5576893	Mus musculus: Phase 2 - plateau phase	reactome	reactome
+R-MMU-5576890	Mus musculus: Phase 3 - rapid repolarisation	reactome	reactome
+R-MMU-5576886	Mus musculus: Phase 4 - resting membrane potential	reactome	reactome
+R-MMU-211945	Mus musculus: Phase I - Functionalization of compounds	reactome	reactome
+R-MMU-156580	Mus musculus: Phase II - Conjugation of compounds	reactome	reactome
+R-MMU-8963691	Mus musculus: Phenylalanine and tyrosine metabolism	reactome	reactome
+R-MMU-8964208	Mus musculus: Phenylalanine metabolism	reactome	reactome
+R-MMU-8850843	Mus musculus: Phosphate bond hydrolysis by NTPDase proteins	reactome	reactome
+R-MMU-2393930	Mus musculus: Phosphate bond hydrolysis by NUDT proteins	reactome	reactome
+R-MMU-5654219	Mus musculus: Phospholipase C-mediated cascade: FGFR1	reactome	reactome
+R-MMU-5654221	Mus musculus: Phospholipase C-mediated cascade; FGFR2	reactome	reactome
+R-MMU-5654227	Mus musculus: Phospholipase C-mediated cascade; FGFR3	reactome	reactome
+R-MMU-5654228	Mus musculus: Phospholipase C-mediated cascade; FGFR4	reactome	reactome
+R-MMU-1483257	Mus musculus: Phospholipid metabolism	reactome	reactome
+R-MMU-202427	Mus musculus: Phosphorylation of CD3 and TCR zeta chains	reactome	reactome
+R-MMU-176417	Mus musculus: Phosphorylation of Emi1	reactome	reactome
+R-MMU-69200	Mus musculus: Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes	reactome	reactome
+R-MMU-176412	Mus musculus: Phosphorylation of the APC/C	reactome	reactome
+R-MMU-5578768	Mus musculus: Physiological factors	reactome	reactome
+R-MMU-5205685	Mus musculus: Pink/Parkin Mediated Mitophagy	reactome	reactome
+R-MMU-8963898	Mus musculus: Plasma lipoprotein assembly	reactome	reactome
+R-MMU-174824	"Mus musculus: Plasma lipoprotein assembly, remodeling, and clearance"	reactome	reactome
+R-MMU-8964043	Mus musculus: Plasma lipoprotein clearance	reactome	reactome
+R-MMU-8963899	Mus musculus: Plasma lipoprotein remodeling	reactome	reactome
+R-MMU-75896	Mus musculus: Plasmalogen biosynthesis	reactome	reactome
+R-MMU-75892	Mus musculus: Platelet Adhesion to exposed collagen	reactome	reactome
+R-MMU-76009	Mus musculus: Platelet Aggregation (Plug Formation)	reactome	reactome
+R-MMU-76002	"Mus musculus: Platelet activation, signaling and aggregation"	reactome	reactome
+R-MMU-418360	Mus musculus: Platelet calcium homeostasis	reactome	reactome
+R-MMU-114608	Mus musculus: Platelet degranulation 	reactome	reactome
+R-MMU-418346	Mus musculus: Platelet homeostasis	reactome	reactome
+R-MMU-432142	Mus musculus: Platelet sensitization by LDL	reactome	reactome
+R-MMU-156711	Mus musculus: Polo-like kinase mediated events	reactome	reactome
+R-MMU-69091	Mus musculus: Polymerase switching	reactome	reactome
+R-MMU-174411	Mus musculus: Polymerase switching on the C-strand of the telomere	reactome	reactome
+R-MMU-5250913	Mus musculus: Positive epigenetic regulation of rRNA expression	reactome	reactome
+R-MMU-438064	Mus musculus: Post NMDA receptor activation events	reactome	reactome
+R-MMU-426496	Mus musculus: Post-transcriptional silencing by small RNAs	reactome	reactome
+R-MMU-163125	Mus musculus: Post-translational modification: synthesis of GPI-anchored proteins	reactome	reactome
+R-MMU-597592	Mus musculus: Post-translational protein modification	reactome	reactome
+R-MMU-8957275	Mus musculus: Post-translational protein phosphorylation	reactome	reactome
+R-MMU-622327	Mus musculus: Postsynaptic nicotinic acetylcholine receptors	reactome	reactome
+R-MMU-1296071	Mus musculus: Potassium Channels	reactome	reactome
+R-MMU-1296067	Mus musculus: Potassium transport channels	reactome	reactome
+R-MMU-1912422	Mus musculus: Pre-NOTCH Expression and Processing	reactome	reactome
+R-MMU-1912420	Mus musculus: Pre-NOTCH Processing in Golgi	reactome	reactome
+R-MMU-1912408	Mus musculus: Pre-NOTCH Transcription and Translation	reactome	reactome
+R-MMU-196108	Mus musculus: Pregnenolone biosynthesis	reactome	reactome
+R-MMU-112308	Mus musculus: Presynaptic depolarization and calcium channel opening	reactome	reactome
+R-MMU-500657	Mus musculus: Presynaptic function of Kainate receptors	reactome	reactome
+R-MMU-622323	Mus musculus: Presynaptic nicotinic acetylcholine receptors	reactome	reactome
+R-MMU-5693616	Mus musculus: Presynaptic phase of homologous DNA pairing and strand exchange	reactome	reactome
+R-MMU-3215018	Mus musculus: Processing and activation of SUMO	reactome	reactome
+R-MMU-72203	Mus musculus: Processing of Capped Intron-Containing Pre-mRNA	reactome	reactome
+R-MMU-75067	Mus musculus: Processing of Capped Intronless Pre-mRNA	reactome	reactome
+R-MMU-5693607	Mus musculus: Processing of DNA double-strand break ends	reactome	reactome
+R-MMU-77595	Mus musculus: Processing of Intronless Pre-mRNAs	reactome	reactome
+R-MMU-8949664	Mus musculus: Processing of SMDT1	reactome	reactome
+R-MMU-174414	Mus musculus: Processive synthesis on the C-strand of the telomere	reactome	reactome
+R-MMU-69183	Mus musculus: Processive synthesis on the lagging strand	reactome	reactome
+R-MMU-5357801	Mus musculus: Programmed Cell Death	reactome	reactome
+R-MMU-964827	"Mus musculus: Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2"	reactome	reactome
+R-MMU-1170546	Mus musculus: Prolactin receptor signaling	reactome	reactome
+R-MMU-70688	Mus musculus: Proline catabolism	reactome	reactome
+R-MMU-169893	Mus musculus: Prolonged ERK activation events	reactome	reactome
+R-MMU-71032	Mus musculus: Propionyl-CoA catabolism	reactome	reactome
+R-MMU-392851	Mus musculus: Prostacyclin signalling through prostacyclin receptor	reactome	reactome
+R-MMU-391908	Mus musculus: Prostanoid ligand receptors	reactome	reactome
+R-MMU-391251	Mus musculus: Protein folding	reactome	reactome
+R-MMU-9609507	Mus musculus: Protein localization	reactome	reactome
+R-MMU-8876725	Mus musculus: Protein methylation	reactome	reactome
+R-MMU-5676934	Mus musculus: Protein repair	reactome	reactome
+R-MMU-8852135	Mus musculus: Protein ubiquitination	reactome	reactome
+R-MMU-6794362	Mus musculus: Protein-protein interactions at synapses	reactome	reactome
+R-MMU-433692	Mus musculus: Proton-coupled monocarboxylate transport	reactome	reactome
+R-MMU-428559	Mus musculus: Proton-coupled neutral amino acid transporters	reactome	reactome
+R-MMU-427975	Mus musculus: Proton/oligopeptide cotransporters	reactome	reactome
+R-MMU-74259	Mus musculus: Purine catabolism	reactome	reactome
+R-MMU-73817	Mus musculus: Purine ribonucleoside monophosphate biosynthesis	reactome	reactome
+R-MMU-74217	Mus musculus: Purine salvage	reactome	reactome
+R-MMU-500753	Mus musculus: Pyrimidine biosynthesis	reactome	reactome
+R-MMU-73621	Mus musculus: Pyrimidine catabolism	reactome	reactome
+R-MMU-73614	Mus musculus: Pyrimidine salvage	reactome	reactome
+R-MMU-71737	Mus musculus: Pyrophosphate hydrolysis	reactome	reactome
+R-MMU-70268	Mus musculus: Pyruvate metabolism	reactome	reactome
+R-MMU-71406	Mus musculus: Pyruvate metabolism and Citric Acid (TCA) cycle	reactome	reactome
+R-MMU-5365859	Mus musculus: RA biosynthesis pathway	reactome	reactome
+R-MMU-8876198	Mus musculus: RAB GEFs exchange GTP for GDP on RABs	reactome	reactome
+R-MMU-8873719	Mus musculus: RAB geranylgeranylation	reactome	reactome
+R-MMU-5673000	Mus musculus: RAF activation	reactome	reactome
+R-MMU-112409	Mus musculus: RAF-independent MAPK1/3 activation	reactome	reactome
+R-MMU-5673001	Mus musculus: RAF/MAP kinase cascade	reactome	reactome
+R-MMU-8853659	Mus musculus: RET signaling	reactome	reactome
+R-MMU-195258	Mus musculus: RHO GTPase Effectors	reactome	reactome
+R-MMU-5663220	Mus musculus: RHO GTPases Activate Formins	reactome	reactome
+R-MMU-5668599	Mus musculus: RHO GTPases Activate NADPH Oxidases	reactome	reactome
+R-MMU-5627117	Mus musculus: RHO GTPases Activate ROCKs	reactome	reactome
+R-MMU-5666185	Mus musculus: RHO GTPases Activate Rhotekin and Rhophilins	reactome	reactome
+R-MMU-5663213	Mus musculus: RHO GTPases Activate WASPs and WAVEs	reactome	reactome
+R-MMU-5625900	Mus musculus: RHO GTPases activate CIT	reactome	reactome
+R-MMU-5626467	Mus musculus: RHO GTPases activate IQGAPs	reactome	reactome
+R-MMU-5625970	Mus musculus: RHO GTPases activate KTN1	reactome	reactome
+R-MMU-5627123	Mus musculus: RHO GTPases activate PAKs	reactome	reactome
+R-MMU-5625740	Mus musculus: RHO GTPases activate PKNs	reactome	reactome
+R-MMU-5627083	Mus musculus: RHO GTPases regulate CFTR trafficking	reactome	reactome
+R-MMU-1810476	Mus musculus: RIP-mediated NFkB activation via ZBP1	reactome	reactome
+R-MMU-5213460	Mus musculus: RIPK1-mediated regulated necrosis	reactome	reactome
+R-MMU-3214858	Mus musculus: RMTs methylate histone arginines	reactome	reactome
+R-MMU-77075	Mus musculus: RNA Pol II CTD phosphorylation and interaction with CE	reactome	reactome
+R-MMU-73854	Mus musculus: RNA Polymerase I Promoter Clearance	reactome	reactome
+R-MMU-73772	Mus musculus: RNA Polymerase I Promoter Escape	reactome	reactome
+R-MMU-73728	Mus musculus: RNA Polymerase I Promoter Opening	reactome	reactome
+R-MMU-73864	Mus musculus: RNA Polymerase I Transcription	reactome	reactome
+R-MMU-73762	Mus musculus: RNA Polymerase I Transcription Initiation	reactome	reactome
+R-MMU-73863	Mus musculus: RNA Polymerase I Transcription Termination	reactome	reactome
+R-MMU-674695	Mus musculus: RNA Polymerase II Pre-transcription Events	reactome	reactome
+R-MMU-73776	Mus musculus: RNA Polymerase II Promoter Escape	reactome	reactome
+R-MMU-73857	Mus musculus: RNA Polymerase II Transcription	reactome	reactome
+R-MMU-75955	Mus musculus: RNA Polymerase II Transcription Elongation	reactome	reactome
+R-MMU-75953	Mus musculus: RNA Polymerase II Transcription Initiation	reactome	reactome
+R-MMU-76042	Mus musculus: RNA Polymerase II Transcription Initiation And Promoter Clearance	reactome	reactome
+R-MMU-73779	Mus musculus: RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	reactome	reactome
+R-MMU-73856	Mus musculus: RNA Polymerase II Transcription Termination	reactome	reactome
+R-MMU-74158	Mus musculus: RNA Polymerase III Transcription	reactome	reactome
+R-MMU-76046	Mus musculus: RNA Polymerase III Transcription Initiation	reactome	reactome
+R-MMU-76061	Mus musculus: RNA Polymerase III Transcription Initiation From Type 1 Promoter	reactome	reactome
+R-MMU-76066	Mus musculus: RNA Polymerase III Transcription Initiation From Type 2 Promoter	reactome	reactome
+R-MMU-76071	Mus musculus: RNA Polymerase III Transcription Initiation From Type 3 Promoter	reactome	reactome
+R-MMU-6807505	Mus musculus: RNA polymerase II transcribes snRNA genes	reactome	reactome
+R-MMU-1222556	Mus musculus: ROS and RNS production in phagocytes	reactome	reactome
+R-MMU-444257	Mus musculus: RSK activation	reactome	reactome
+R-MMU-8877330	Mus musculus: RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	reactome	reactome
+R-MMU-8939243	Mus musculus: RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	reactome	reactome
+R-MMU-8931987	Mus musculus: RUNX1 regulates estrogen receptor mediated transcription	reactome	reactome
+R-MMU-8936459	Mus musculus: RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	reactome	reactome
+R-MMU-8939245	Mus musculus: RUNX1 regulates transcription of genes involved in BCR signaling	reactome	reactome
+R-MMU-8939236	Mus musculus: RUNX1 regulates transcription of genes involved in differentiation of HSCs	reactome	reactome
+R-MMU-8939242	Mus musculus: RUNX1 regulates transcription of genes involved in differentiation of keratinocytes	reactome	reactome
+R-MMU-8939246	Mus musculus: RUNX1 regulates transcription of genes involved in differentiation of myeloid cells	reactome	reactome
+R-MMU-8939247	Mus musculus: RUNX1 regulates transcription of genes involved in interleukin signaling	reactome	reactome
+R-MMU-8941326	Mus musculus: RUNX2 regulates bone development	reactome	reactome
+R-MMU-8940973	Mus musculus: RUNX2 regulates osteoblast differentiation	reactome	reactome
+R-MMU-8941855	Mus musculus: RUNX3 regulates CDKN1A transcription	reactome	reactome
+R-MMU-8941856	Mus musculus: RUNX3 regulates NOTCH signaling	reactome	reactome
+R-MMU-8951430	Mus musculus: RUNX3 regulates WNT signaling	reactome	reactome
+R-MMU-8951671	Mus musculus: RUNX3 regulates YAP1-mediated transcription	reactome	reactome
+R-MMU-8951936	Mus musculus: RUNX3 regulates p14-ARF	reactome	reactome
+R-MMU-9007101	Mus musculus: Rab regulation of trafficking	reactome	reactome
+R-MMU-392517	Mus musculus: Rap1 signalling	reactome	reactome
+R-MMU-975578	Mus musculus: Reactions specific to the complex N-glycan synthesis pathway	reactome	reactome
+R-MMU-975574	Mus musculus: Reactions specific to the hybrid N-glycan synthesis pathway	reactome	reactome
+R-MMU-8934903	Mus musculus: Receptor Mediated Mitophagy	reactome	reactome
+R-MMU-388844	Mus musculus: Receptor-type tyrosine-protein phosphatases	reactome	reactome
+R-MMU-110330	Mus musculus: Recognition and association of DNA glycosylase with site containing an affected purine	reactome	reactome
+R-MMU-110328	Mus musculus: Recognition and association of DNA glycosylase with site containing an affected pyrimidine	reactome	reactome
+R-MMU-110314	Mus musculus: Recognition of DNA damage by PCNA-containing replication complex	reactome	reactome
+R-MMU-5693565	Mus musculus: Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	reactome	reactome
+R-MMU-380320	Mus musculus: Recruitment of NuMA to mitotic centrosomes	reactome	reactome
+R-MMU-380270	Mus musculus: Recruitment of mitotic centrosome proteins and complexes	reactome	reactome
+R-MMU-159418	Mus musculus: Recycling of bile acids and salts	reactome	reactome
+R-MMU-72731	Mus musculus: Recycling of eIF2:GDP	reactome	reactome
+R-MMU-437239	Mus musculus: Recycling pathway of L1	reactome	reactome
+R-MMU-418359	Mus musculus: Reduction of cytosolic Ca++ levels	reactome	reactome
+R-MMU-8866376	Mus musculus: Reelin signalling pathway	reactome	reactome
+R-MMU-5218859	Mus musculus: Regulated Necrosis	reactome	reactome
+R-MMU-193692	Mus musculus: Regulated proteolysis of p75NTR	reactome	reactome
+R-MMU-3371378	Mus musculus: Regulation by c-FLIP	reactome	reactome
+R-MMU-176408	Mus musculus: Regulation of APC/C activators between G1/S and early anaphase	reactome	reactome
+R-MMU-169911	Mus musculus: Regulation of Apoptosis	reactome	reactome
+R-MMU-977606	Mus musculus: Regulation of Complement cascade	reactome	reactome
+R-MMU-9617629	Mus musculus: Regulation of FOXO transcriptional activity by acetylation	reactome	reactome
+R-MMU-4641263	Mus musculus: Regulation of FZD by ubiquitination	reactome	reactome
+R-MMU-170822	Mus musculus: Regulation of Glucokinase by Glucokinase Regulatory Protein	reactome	reactome
+R-MMU-3371453	Mus musculus: Regulation of HSF1-mediated heat shock response	reactome	reactome
+R-MMU-912694	Mus musculus: Regulation of IFNA signaling	reactome	reactome
+R-MMU-877312	Mus musculus: Regulation of IFNG signaling	reactome	reactome
+R-MMU-381426	Mus musculus: Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	reactome	reactome
+R-MMU-1433559	Mus musculus: Regulation of KIT signaling	reactome	reactome
+R-MMU-9022692	Mus musculus: Regulation of MECP2 expression and activity	reactome	reactome
+R-MMU-2565942	Mus musculus: Regulation of PLK1 Activity at G2/M Transition	reactome	reactome
+R-MMU-8943724	Mus musculus: Regulation of PTEN gene transcription	reactome	reactome
+R-MMU-8948747	Mus musculus: Regulation of PTEN localization	reactome	reactome
+R-MMU-8948751	Mus musculus: Regulation of PTEN stability and activity	reactome	reactome
+R-MMU-5658442	Mus musculus: Regulation of RAS by GAPs	reactome	reactome
+R-MMU-8934593	Mus musculus: Regulation of RUNX1 Expression and Activity	reactome	reactome
+R-MMU-8939902	Mus musculus: Regulation of RUNX2 expression and activity	reactome	reactome
+R-MMU-8941858	Mus musculus: Regulation of RUNX3 expression and activity	reactome	reactome
+R-MMU-5686938	Mus musculus: Regulation of TLR by endogenous ligand	reactome	reactome
+R-MMU-5357905	Mus musculus: Regulation of TNFR1 signaling	reactome	reactome
+R-MMU-5633007	Mus musculus: Regulation of TP53 Activity	reactome	reactome
+R-MMU-6804758	Mus musculus: Regulation of TP53 Activity through Acetylation	reactome	reactome
+R-MMU-6804759	Mus musculus: Regulation of TP53 Activity through Association with Co-factors	reactome	reactome
+R-MMU-6804760	Mus musculus: Regulation of TP53 Activity through Methylation	reactome	reactome
+R-MMU-6804756	Mus musculus: Regulation of TP53 Activity through Phosphorylation	reactome	reactome
+R-MMU-6804757	Mus musculus: Regulation of TP53 Degradation	reactome	reactome
+R-MMU-6804754	Mus musculus: Regulation of TP53 Expression	reactome	reactome
+R-MMU-6806003	Mus musculus: Regulation of TP53 Expression and Degradation	reactome	reactome
+R-MMU-2029482	Mus musculus: Regulation of actin dynamics for phagocytic cup formation	reactome	reactome
+R-MMU-186712	Mus musculus: Regulation of beta-cell development	reactome	reactome
+R-MMU-1655829	Mus musculus: Regulation of cholesterol biosynthesis by SREBP (SREBF)	reactome	reactome
+R-MMU-446388	Mus musculus: Regulation of cytoskeletal remodeling and cell spreading by IPP complex components	reactome	reactome
+R-MMU-9010553	Mus musculus: Regulation of expression of SLITs and ROBOs	reactome	reactome
+R-MMU-191650	Mus musculus: Regulation of gap junction activity	reactome	reactome
+R-MMU-1234158	Mus musculus: Regulation of gene expression by Hypoxia-inducible Factor	reactome	reactome
+R-MMU-210745	Mus musculus: Regulation of gene expression in beta cells	reactome	reactome
+R-MMU-9634600	"Mus musculus: Regulation of glycolysis by fructose 2,6-bisphosphate metabolism"	reactome	reactome
+R-MMU-3134975	Mus musculus: Regulation of innate immune responses to cytosolic DNA	reactome	reactome
+R-MMU-422356	Mus musculus: Regulation of insulin secretion	reactome	reactome
+R-MMU-400206	Mus musculus: Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)	reactome	reactome
+R-MMU-9614399	Mus musculus: Regulation of localization of FOXO transcription factors	reactome	reactome
+R-MMU-450531	Mus musculus: Regulation of mRNA stability by proteins that bind AU-rich elements	reactome	reactome
+R-MMU-453276	Mus musculus: Regulation of mitotic cell cycle	reactome	reactome
+R-MMU-5675482	Mus musculus: Regulation of necroptotic cell death	reactome	reactome
+R-MMU-350562	Mus musculus: Regulation of ornithine decarboxylase (ODC)	reactome	reactome
+R-MMU-204174	Mus musculus: Regulation of pyruvate dehydrogenase (PDH) complex	reactome	reactome
+R-MMU-912631	Mus musculus: Regulation of signaling by CBL	reactome	reactome
+R-MMU-9627069	Mus musculus: Regulation of the apoptosome activity	reactome	reactome
+R-MMU-350864	Mus musculus: Regulation of thyroid hormone activity	reactome	reactome
+R-MMU-444821	Mus musculus: Relaxin receptors	reactome	reactome
+R-MMU-5362798	Mus musculus: Release of Hh-Np from the secreting cell	reactome	reactome
+R-MMU-111457	Mus musculus: Release of apoptotic factors from the mitochondria	reactome	reactome
+R-MMU-159782	Mus musculus: Removal of aminoterminal propeptides from gamma-carboxylated proteins	reactome	reactome
+R-MMU-69166	Mus musculus: Removal of the Flap Intermediate	reactome	reactome
+R-MMU-174437	Mus musculus: Removal of the Flap Intermediate from the C-strand	reactome	reactome
+R-MMU-4641265	Mus musculus: Repression of WNT target genes	reactome	reactome
+R-MMU-1474165	Mus musculus: Reproduction	reactome	reactome
+R-MMU-110373	Mus musculus: Resolution of AP sites via the multiple-nucleotide patch replacement pathway	reactome	reactome
+R-MMU-110381	Mus musculus: Resolution of AP sites via the single-nucleotide replacement pathway	reactome	reactome
+R-MMU-73933	Mus musculus: Resolution of Abasic Sites (AP sites)	reactome	reactome
+R-MMU-5693537	Mus musculus: Resolution of D-Loop Structures	reactome	reactome
+R-MMU-5693568	Mus musculus: Resolution of D-loop Structures through Holliday Junction Intermediates	reactome	reactome
+R-MMU-5693554	Mus musculus: Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	reactome	reactome
+R-MMU-2500257	Mus musculus: Resolution of Sister Chromatid Cohesion	reactome	reactome
+R-MMU-611105	Mus musculus: Respiratory electron transport	reactome	reactome
+R-MMU-163200	"Mus musculus: Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins."	reactome	reactome
+R-MMU-76005	Mus musculus: Response to elevated platelet cytosolic Ca2+	reactome	reactome
+R-MMU-5660526	Mus musculus: Response to metal ions	reactome	reactome
+R-MMU-975634	Mus musculus: Retinoid metabolism and transport	reactome	reactome
+R-MMU-177504	Mus musculus: Retrograde neurotrophin signalling	reactome	reactome
+R-MMU-6811440	Mus musculus: Retrograde transport at the Trans-Golgi-Network	reactome	reactome
+R-MMU-888593	Mus musculus: Reuptake of GABA	reactome	reactome
+R-MMU-73943	Mus musculus: Reversal of alkylation damage by DNA dioxygenases	reactome	reactome
+R-MMU-1475029	Mus musculus: Reversible hydration of carbon dioxide	reactome	reactome
+R-MMU-444411	Mus musculus: Rhesus glycoproteins mediate ammonium transport.	reactome	reactome
+R-MMU-194840	Mus musculus: Rho GTPase cycle	reactome	reactome
+R-MMU-72702	Mus musculus: Ribosomal scanning and start codon recognition	reactome	reactome
+R-MMU-428890	Mus musculus: Role of ABL in ROBO-SLIT signaling	reactome	reactome
+R-MMU-2730905	Mus musculus: Role of LAT2/NTAL/LAB on calcium mobilization	reactome	reactome
+R-MMU-2029485	Mus musculus: Role of phospholipids in phagocytosis	reactome	reactome
+R-MMU-69242	Mus musculus: S Phase	reactome	reactome
+R-MMU-187577	Mus musculus: SCF(Skp2)-mediated degradation of p27/p21	reactome	reactome
+R-MMU-373756	Mus musculus: SDK interactions	reactome	reactome
+R-MMU-399955	Mus musculus: SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	reactome	reactome
+R-MMU-5654688	Mus musculus: SHC-mediated cascade:FGFR1	reactome	reactome
+R-MMU-5654699	Mus musculus: SHC-mediated cascade:FGFR2	reactome	reactome
+R-MMU-5654704	Mus musculus: SHC-mediated cascade:FGFR3	reactome	reactome
+R-MMU-5654719	Mus musculus: SHC-mediated cascade:FGFR4	reactome	reactome
+R-MMU-2428933	Mus musculus: SHC-related events triggered by IGF1R	reactome	reactome
+R-MMU-180336	Mus musculus: SHC1 events in EGFR signaling	reactome	reactome
+R-MMU-1250196	Mus musculus: SHC1 events in ERBB2 signaling	reactome	reactome
+R-MMU-1250347	Mus musculus: SHC1 events in ERBB4 signaling	reactome	reactome
+R-MMU-427359	Mus musculus: SIRT1 negatively regulates rRNA expression	reactome	reactome
+R-MMU-77588	Mus musculus: SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	reactome	reactome
+R-MMU-111367	Mus musculus: SLBP independent Processing of Histone Pre-mRNAs	reactome	reactome
+R-MMU-425407	Mus musculus: SLC-mediated transmembrane transport	reactome	reactome
+R-MMU-8985586	Mus musculus: SLIT2:ROBO1 increases RHOA activity	reactome	reactome
+R-MMU-111463	Mus musculus: SMAC (DIABLO) binds to IAPs 	reactome	reactome
+R-MMU-111464	Mus musculus: SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes 	reactome	reactome
+R-MMU-111469	"Mus musculus: SMAC, XIAP-regulated apoptotic response"	reactome	reactome
+R-MMU-2173796	Mus musculus: SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	reactome	reactome
+R-MMU-112412	Mus musculus: SOS-mediated signalling	reactome	reactome
+R-MMU-1799339	Mus musculus: SRP-dependent cotranslational protein targeting to membrane	reactome	reactome
+R-MMU-3249367	Mus musculus: STAT6-mediated induction of chemokines	reactome	reactome
+R-MMU-1834941	Mus musculus: STING mediated induction of host immune responses	reactome	reactome
+R-MMU-3108232	Mus musculus: SUMO E3 ligases SUMOylate target proteins	reactome	reactome
+R-MMU-3065676	Mus musculus: SUMO is conjugated to E1 (UBA2:SAE1)	reactome	reactome
+R-MMU-3065679	Mus musculus: SUMO is proteolytically processed	reactome	reactome
+R-MMU-3065678	"Mus musculus: SUMO is transferred from E1 to E2 (UBE2I, UBC9)"	reactome	reactome
+R-MMU-2990846	Mus musculus: SUMOylation	reactome	reactome
+R-MMU-3108214	Mus musculus: SUMOylation of DNA damage response and repair proteins	reactome	reactome
+R-MMU-4655427	Mus musculus: SUMOylation of DNA methylation proteins	reactome	reactome
+R-MMU-4615885	Mus musculus: SUMOylation of DNA replication proteins	reactome	reactome
+R-MMU-4570464	Mus musculus: SUMOylation of RNA binding proteins	reactome	reactome
+R-MMU-4085377	Mus musculus: SUMOylation of SUMOylation proteins	reactome	reactome
+R-MMU-4551638	Mus musculus: SUMOylation of chromatin organization proteins	reactome	reactome
+R-MMU-4755510	Mus musculus: SUMOylation of immune response proteins	reactome	reactome
+R-MMU-4090294	Mus musculus: SUMOylation of intracellular receptors	reactome	reactome
+R-MMU-3899300	Mus musculus: SUMOylation of transcription cofactors	reactome	reactome
+R-MMU-3232118	Mus musculus: SUMOylation of transcription factors	reactome	reactome
+R-MMU-3232142	Mus musculus: SUMOylation of ubiquitinylation proteins	reactome	reactome
+R-MMU-3000480	Mus musculus: Scavenging by Class A Receptors	reactome	reactome
+R-MMU-3000471	Mus musculus: Scavenging by Class B Receptors	reactome	reactome
+R-MMU-3000497	Mus musculus: Scavenging by Class H Receptors	reactome	reactome
+R-MMU-2168880	Mus musculus: Scavenging of heme from plasma	reactome	reactome
+R-MMU-2408522	Mus musculus: Selenoamino acid metabolism	reactome	reactome
+R-MMU-2408557	Mus musculus: Selenocysteine synthesis	reactome	reactome
+R-MMU-399954	Mus musculus: Sema3A PAK dependent Axon repulsion	reactome	reactome
+R-MMU-400685	Mus musculus: Sema4D in semaphorin signaling	reactome	reactome
+R-MMU-416572	Mus musculus: Sema4D induced cell migration and growth-cone collapse	reactome	reactome
+R-MMU-416550	Mus musculus: Sema4D mediated inhibition of cell attachment and migration	reactome	reactome
+R-MMU-373755	Mus musculus: Semaphorin interactions	reactome	reactome
+R-MMU-2559582	Mus musculus: Senescence-Associated Secretory Phenotype (SASP)	reactome	reactome
+R-MMU-5693548	Mus musculus: Sensing of DNA Double Strand Breaks	reactome	reactome
+R-MMU-2467813	Mus musculus: Separation of Sister Chromatids	reactome	reactome
+R-MMU-977347	Mus musculus: Serine biosynthesis	reactome	reactome
+R-MMU-181429	Mus musculus: Serotonin Neurotransmitter Release Cycle	reactome	reactome
+R-MMU-209931	Mus musculus: Serotonin and melatonin biosynthesis	reactome	reactome
+R-MMU-380615	Mus musculus: Serotonin clearance from the synaptic cleft	reactome	reactome
+R-MMU-390666	Mus musculus: Serotonin receptors	reactome	reactome
+R-MMU-4085001	Mus musculus: Sialic acid metabolism	reactome	reactome
+R-MMU-162582	Mus musculus: Signal Transduction	reactome	reactome
+R-MMU-392518	Mus musculus: Signal amplification	reactome	reactome
+R-MMU-74749	Mus musculus: Signal attenuation	reactome	reactome
+R-MMU-391160	Mus musculus: Signal regulatory protein family interactions	reactome	reactome
+R-MMU-445144	Mus musculus: Signal transduction by L1	reactome	reactome
+R-MMU-1502540	Mus musculus: Signaling by Activin	reactome	reactome
+R-MMU-201451	Mus musculus: Signaling by BMP	reactome	reactome
+R-MMU-177929	Mus musculus: Signaling by EGFR	reactome	reactome
+R-MMU-1227986	Mus musculus: Signaling by ERBB2	reactome	reactome
+R-MMU-1236394	Mus musculus: Signaling by ERBB4	reactome	reactome
+R-MMU-9006335	Mus musculus: Signaling by Erythropoietin	reactome	reactome
+R-MMU-190236	Mus musculus: Signaling by FGFR	reactome	reactome
+R-MMU-5654736	Mus musculus: Signaling by FGFR1	reactome	reactome
+R-MMU-5654738	Mus musculus: Signaling by FGFR2	reactome	reactome
+R-MMU-5654741	Mus musculus: Signaling by FGFR3	reactome	reactome
+R-MMU-5654743	Mus musculus: Signaling by FGFR4	reactome	reactome
+R-MMU-372790	Mus musculus: Signaling by GPCR	reactome	reactome
+R-MMU-5358351	Mus musculus: Signaling by Hedgehog	reactome	reactome
+R-MMU-2028269	Mus musculus: Signaling by Hippo	reactome	reactome
+R-MMU-74752	Mus musculus: Signaling by Insulin receptor	reactome	reactome
+R-MMU-449147	Mus musculus: Signaling by Interleukins	reactome	reactome
+R-MMU-2586552	Mus musculus: Signaling by Leptin	reactome	reactome
+R-MMU-6806834	Mus musculus: Signaling by MET	reactome	reactome
+R-MMU-8852405	Mus musculus: Signaling by MST1	reactome	reactome
+R-MMU-1181150	Mus musculus: Signaling by NODAL	reactome	reactome
+R-MMU-157118	Mus musculus: Signaling by NOTCH	reactome	reactome
+R-MMU-1980143	Mus musculus: Signaling by NOTCH1	reactome	reactome
+R-MMU-9012852	Mus musculus: Signaling by NOTCH3	reactome	reactome
+R-MMU-9013694	Mus musculus: Signaling by NOTCH4	reactome	reactome
+R-MMU-187037	Mus musculus: Signaling by NTRK1 (TRKA)	reactome	reactome
+R-MMU-9006115	Mus musculus: Signaling by NTRK2 (TRKB)	reactome	reactome
+R-MMU-9034015	Mus musculus: Signaling by NTRK3 (TRKC)	reactome	reactome
+R-MMU-166520	Mus musculus: Signaling by NTRKs	reactome	reactome
+R-MMU-9006927	Mus musculus: Signaling by Non-Receptor Tyrosine Kinases	reactome	reactome
+R-MMU-9006931	Mus musculus: Signaling by Nuclear Receptors	reactome	reactome
+R-MMU-186797	Mus musculus: Signaling by PDGF	reactome	reactome
+R-MMU-8848021	Mus musculus: Signaling by PTK6	reactome	reactome
+R-MMU-376176	Mus musculus: Signaling by ROBO receptors	reactome	reactome
+R-MMU-9006934	Mus musculus: Signaling by Receptor Tyrosine Kinases	reactome	reactome
+R-MMU-5362517	Mus musculus: Signaling by Retinoic Acid	reactome	reactome
+R-MMU-194315	Mus musculus: Signaling by Rho GTPases	reactome	reactome
+R-MMU-1433557	Mus musculus: Signaling by SCF-KIT	reactome	reactome
+R-MMU-170834	Mus musculus: Signaling by TGF-beta Receptor Complex	reactome	reactome
+R-MMU-9006936	Mus musculus: Signaling by TGF-beta family members	reactome	reactome
+R-MMU-2404192	Mus musculus: Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	reactome	reactome
+R-MMU-194138	Mus musculus: Signaling by VEGF	reactome	reactome
+R-MMU-195721	Mus musculus: Signaling by WNT	reactome	reactome
+R-MMU-983705	Mus musculus: Signaling by the B Cell Receptor (BCR)	reactome	reactome
+R-MMU-198765	Mus musculus: Signalling to ERK5	reactome	reactome
+R-MMU-187687	Mus musculus: Signalling to ERKs	reactome	reactome
+R-MMU-167044	Mus musculus: Signalling to RAS	reactome	reactome
+R-MMU-426486	Mus musculus: Small interfering RNA (siRNA) biogenesis	reactome	reactome
+R-MMU-445355	Mus musculus: Smooth Muscle Contraction	reactome	reactome
+R-MMU-427652	Mus musculus: Sodium-coupled phosphate cotransporters	reactome	reactome
+R-MMU-433137	"Mus musculus: Sodium-coupled sulphate, di- and tri-carboxylate transporters"	reactome	reactome
+R-MMU-425561	Mus musculus: Sodium/Calcium exchangers	reactome	reactome
+R-MMU-425986	Mus musculus: Sodium/Proton exchangers	reactome	reactome
+R-MMU-1300642	Mus musculus: Sperm Motility And Taxes	reactome	reactome
+R-MMU-1660661	Mus musculus: Sphingolipid de novo biosynthesis	reactome	reactome
+R-MMU-428157	Mus musculus: Sphingolipid metabolism	reactome	reactome
+R-MMU-1295596	Mus musculus: Spry regulation of FGF signaling	reactome	reactome
+R-MMU-69541	Mus musculus: Stabilization of p53	reactome	reactome
+R-MMU-211994	Mus musculus: Sterols are 12-hydroxylated by CYP8B1	reactome	reactome
+R-MMU-2672351	Mus musculus: Stimuli-sensing channels	reactome	reactome
+R-MMU-390522	Mus musculus: Striated Muscle Contraction	reactome	reactome
+R-MMU-1614517	Mus musculus: Sulfide oxidation to sulfate	reactome	reactome
+R-MMU-1614635	Mus musculus: Sulfur amino acid metabolism	reactome	reactome
+R-MMU-5683826	Mus musculus: Surfactant metabolism	reactome	reactome
+R-MMU-69052	Mus musculus: Switching of origins to a post-replicative state	reactome	reactome
+R-MMU-8849932	Mus musculus: Synaptic adhesion-like molecules	reactome	reactome
+R-MMU-3000170	Mus musculus: Syndecan interactions	reactome	reactome
+R-MMU-2142816	Mus musculus: Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)	reactome	reactome
+R-MMU-2142712	Mus musculus: Synthesis of 12-eicosatetraenoic acid derivatives	reactome	reactome
+R-MMU-2142770	Mus musculus: Synthesis of 15-eicosatetraenoic acid derivatives	reactome	reactome
+R-MMU-2142688	Mus musculus: Synthesis of 5-eicosatetraenoic acids	reactome	reactome
+R-MMU-1483076	Mus musculus: Synthesis of CL	reactome	reactome
+R-MMU-69239	Mus musculus: Synthesis of DNA	reactome	reactome
+R-MMU-446199	Mus musculus: Synthesis of Dolichyl-phosphate	reactome	reactome
+R-MMU-446205	Mus musculus: Synthesis of GDP-mannose	reactome	reactome
+R-MMU-2142696	Mus musculus: Synthesis of Hepoxilins (HX) and Trioxilins (TrX)	reactome	reactome
+R-MMU-1855183	"Mus musculus: Synthesis of IP2, IP, and Ins in the cytosol"	reactome	reactome
+R-MMU-1855204	Mus musculus: Synthesis of IP3 and IP4 in the cytosol	reactome	reactome
+R-MMU-1855231	Mus musculus: Synthesis of IPs in the ER lumen	reactome	reactome
+R-MMU-1855191	Mus musculus: Synthesis of IPs in the nucleus	reactome	reactome
+R-MMU-77111	Mus musculus: Synthesis of Ketone Bodies	reactome	reactome
+R-MMU-2142691	Mus musculus: Synthesis of Leukotrienes (LT) and Eoxins (EX)	reactome	reactome
+R-MMU-2142700	Mus musculus: Synthesis of Lipoxins (LX)	reactome	reactome
+R-MMU-1483166	Mus musculus: Synthesis of PA	reactome	reactome
+R-MMU-1483191	Mus musculus: Synthesis of PC	reactome	reactome
+R-MMU-1483213	Mus musculus: Synthesis of PE	reactome	reactome
+R-MMU-1483148	Mus musculus: Synthesis of PG	reactome	reactome
+R-MMU-1483226	Mus musculus: Synthesis of PI	reactome	reactome
+R-MMU-1483248	Mus musculus: Synthesis of PIPs at the ER membrane	reactome	reactome
+R-MMU-1660514	Mus musculus: Synthesis of PIPs at the Golgi membrane	reactome	reactome
+R-MMU-1660516	Mus musculus: Synthesis of PIPs at the early endosome membrane	reactome	reactome
+R-MMU-1660517	Mus musculus: Synthesis of PIPs at the late endosome membrane	reactome	reactome
+R-MMU-1660499	Mus musculus: Synthesis of PIPs at the plasma membrane	reactome	reactome
+R-MMU-8847453	Mus musculus: Synthesis of PIPs in the nucleus	reactome	reactome
+R-MMU-1483101	Mus musculus: Synthesis of PS	reactome	reactome
+R-MMU-2162123	Mus musculus: Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	reactome	reactome
+R-MMU-446210	Mus musculus: Synthesis of UDP-N-acetyl-glucosamine	reactome	reactome
+R-MMU-8866652	Mus musculus: Synthesis of active ubiquitin: roles of E1 and E2 enzymes	reactome	reactome
+R-MMU-192105	Mus musculus: Synthesis of bile acids and bile salts	reactome	reactome
+R-MMU-193775	Mus musculus: Synthesis of bile acids and bile salts via 24-hydroxycholesterol	reactome	reactome
+R-MMU-193807	Mus musculus: Synthesis of bile acids and bile salts via 27-hydroxycholesterol	reactome	reactome
+R-MMU-193368	Mus musculus: Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	reactome	reactome
+R-MMU-5358493	Mus musculus: Synthesis of diphthamide-EEF2	reactome	reactome
+R-MMU-162699	Mus musculus: Synthesis of dolichyl-phosphate mannose	reactome	reactome
+R-MMU-480985	Mus musculus: Synthesis of dolichyl-phosphate-glucose	reactome	reactome
+R-MMU-2142670	Mus musculus: Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)	reactome	reactome
+R-MMU-162710	Mus musculus: Synthesis of glycosylphosphatidylinositol (GPI)	reactome	reactome
+R-MMU-1855167	Mus musculus: Synthesis of pyrophosphates in the cytosol	reactome	reactome
+R-MMU-446219	Mus musculus: Synthesis of substrates in N-glycan biosythesis	reactome	reactome
+R-MMU-75876	Mus musculus: Synthesis of very long-chain fatty acyl-CoAs	reactome	reactome
+R-MMU-422085	"Mus musculus: Synthesis, secretion, and deacylation of Ghrelin"	reactome	reactome
+R-MMU-381771	"Mus musculus: Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)"	reactome	reactome
+R-MMU-400511	"Mus musculus: Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)"	reactome	reactome
+R-MMU-445989	Mus musculus: TAK1 activates NFkB by phosphorylation and activation of IKKs complex	reactome	reactome
+R-MMU-8854214	Mus musculus: TBC/RABGAPs	reactome	reactome
+R-MMU-201681	Mus musculus: TCF dependent signaling in response to WNT	reactome	reactome
+R-MMU-202403	Mus musculus: TCR signaling	reactome	reactome
+R-MMU-5221030	"Mus musculus: TET1,2,3 and TDG demethylate DNA"	reactome	reactome
+R-MMU-8866911	Mus musculus: TFAP2 (AP-2) family regulates transcription of cell cycle factors	reactome	reactome
+R-MMU-8866910	Mus musculus: TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	reactome	reactome
+R-MMU-8869496	Mus musculus: TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation	reactome	reactome
+R-MMU-2173789	Mus musculus: TGF-beta receptor signaling activates SMADs	reactome	reactome
+R-MMU-2173791	Mus musculus: TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	reactome	reactome
+R-MMU-9013973	Mus musculus: TICAM1-dependent activation of IRF3/IRF7	reactome	reactome
+R-MMU-5676594	Mus musculus: TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	reactome	reactome
+R-MMU-75893	Mus musculus: TNF signaling	reactome	reactome
+R-MMU-5357956	Mus musculus: TNFR1-induced NFkappaB signaling pathway	reactome	reactome
+R-MMU-5357786	Mus musculus: TNFR1-induced proapoptotic signaling	reactome	reactome
+R-MMU-5626978	Mus musculus: TNFR1-mediated ceramide production	reactome	reactome
+R-MMU-5668541	Mus musculus: TNFR2 non-canonical NF-kB pathway	reactome	reactome
+R-MMU-5669034	Mus musculus: TNFs bind their physiological receptors	reactome	reactome
+R-MMU-5628897	Mus musculus: TP53 Regulates Metabolic Genes	reactome	reactome
+R-MMU-6803207	Mus musculus: TP53 Regulates Transcription of Caspase Activators and Caspases	reactome	reactome
+R-MMU-6791312	Mus musculus: TP53 Regulates Transcription of Cell Cycle Genes	reactome	reactome
+R-MMU-5633008	Mus musculus: TP53 Regulates Transcription of Cell Death Genes	reactome	reactome
+R-MMU-6796648	Mus musculus: TP53 Regulates Transcription of DNA Repair Genes	reactome	reactome
+R-MMU-6803211	Mus musculus: TP53 Regulates Transcription of Death Receptors and Ligands	reactome	reactome
+R-MMU-6803204	Mus musculus: TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	reactome	reactome
+R-MMU-6804116	Mus musculus: TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	reactome	reactome
+R-MMU-6804114	Mus musculus: TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	reactome	reactome
+R-MMU-6804115	Mus musculus: TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	reactome	reactome
+R-MMU-6803205	Mus musculus: TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	reactome	reactome
+R-MMU-918233	Mus musculus: TRAF3-dependent IRF activation pathway	reactome	reactome
+R-MMU-933541	Mus musculus: TRAF6 mediated IRF7 activation	reactome	reactome
+R-MMU-975110	Mus musculus: TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling	reactome	reactome
+R-MMU-933542	Mus musculus: TRAF6 mediated NF-kB activation	reactome	reactome
+R-MMU-975138	Mus musculus: TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	reactome	reactome
+R-MMU-937072	Mus musculus: TRAF6-mediated induction of TAK1 complex within TLR4 complex	reactome	reactome
+R-MMU-75158	Mus musculus: TRAIL  signaling	reactome	reactome
+R-MMU-937061	Mus musculus: TRIF(TICAM1)-mediated TLR4 signaling 	reactome	reactome
+R-MMU-2562578	Mus musculus: TRIF-mediated programmed cell death	reactome	reactome
+R-MMU-187042	Mus musculus: TRKA activation by NGF	reactome	reactome
+R-MMU-3295583	Mus musculus: TRP channels	reactome	reactome
+R-MMU-1299503	Mus musculus: TWIK related potassium channel (TREK)	reactome	reactome
+R-MMU-1299361	Mus musculus: TWIK-related alkaline pH activated K+ channel (TALK)	reactome	reactome
+R-MMU-1299344	Mus musculus: TWIK-related spinal cord K+ channel (TRESK)	reactome	reactome
+R-MMU-1299316	Mus musculus: TWIK-releated acid-sensitive K+ channel (TASK)	reactome	reactome
+R-MMU-9033500	Mus musculus: TYSND1 cleaves peroxisomal proteins	reactome	reactome
+R-MMU-380095	Mus musculus: Tachykinin receptors bind tachykinins	reactome	reactome
+R-MMU-1299308	Mus musculus: Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)	reactome	reactome
+R-MMU-1299287	Mus musculus: Tandem pore domain halothane-inhibited K+ channel (THIK)	reactome	reactome
+R-MMU-1296346	Mus musculus: Tandem pore domain potassium channels	reactome	reactome
+R-MMU-174417	Mus musculus: Telomere C-strand (Lagging Strand) Synthesis	reactome	reactome
+R-MMU-174430	Mus musculus: Telomere C-strand synthesis initiation	reactome	reactome
+R-MMU-171319	Mus musculus: Telomere Extension By Telomerase	reactome	reactome
+R-MMU-157579	Mus musculus: Telomere Maintenance	reactome	reactome
+R-MMU-166665	Mus musculus: Terminal pathway of complement	reactome	reactome
+R-MMU-977068	Mus musculus: Termination of O-glycan biosynthesis	reactome	reactome
+R-MMU-5656169	Mus musculus: Termination of translesion DNA synthesis	reactome	reactome
+R-MMU-1474151	"Mus musculus: Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"	reactome	reactome
+R-MMU-844615	Mus musculus: The AIM2 inflammasome	reactome	reactome
+R-MMU-844455	Mus musculus: The NLRP1 inflammasome	reactome	reactome
+R-MMU-844456	Mus musculus: The NLRP3 inflammasome	reactome	reactome
+R-MMU-1663150	Mus musculus: The activation of arylsulfatases	reactome	reactome
+R-MMU-2453902	Mus musculus: The canonical retinoid cycle in rods (twilight vision)	reactome	reactome
+R-MMU-1428517	Mus musculus: The citric acid (TCA) cycle and respiratory electron transport	reactome	reactome
+R-MMU-167826	Mus musculus: The fatty acid cycling model	reactome	reactome
+R-MMU-2514856	Mus musculus: The phototransduction cascade	reactome	reactome
+R-MMU-167827	Mus musculus: The proton buffering model	reactome	reactome
+R-MMU-2187335	Mus musculus: The retinoid cycle in cones (daylight vision)	reactome	reactome
+R-MMU-8852276	Mus musculus: The role of GTSE1 in G2/M progression after G2 checkpoint	reactome	reactome
+R-MMU-8849175	Mus musculus: Threonine catabolism	reactome	reactome
+R-MMU-456926	Mus musculus: Thrombin signalling through proteinase activated receptors (PARs)	reactome	reactome
+R-MMU-428930	Mus musculus: Thromboxane signalling through TP receptor	reactome	reactome
+R-MMU-209968	Mus musculus: Thyroxine biosynthesis	reactome	reactome
+R-MMU-210993	Mus musculus: Tie2 Signaling	reactome	reactome
+R-MMU-420029	Mus musculus: Tight junction interactions	reactome	reactome
+R-MMU-168142	Mus musculus: Toll Like Receptor 10 (TLR10) Cascade	reactome	reactome
+R-MMU-181438	Mus musculus: Toll Like Receptor 2 (TLR2) Cascade	reactome	reactome
+R-MMU-168164	Mus musculus: Toll Like Receptor 3 (TLR3) Cascade	reactome	reactome
+R-MMU-166016	Mus musculus: Toll Like Receptor 4 (TLR4) Cascade	reactome	reactome
+R-MMU-168176	Mus musculus: Toll Like Receptor 5 (TLR5) Cascade	reactome	reactome
+R-MMU-168181	Mus musculus: Toll Like Receptor 7/8 (TLR7/8) Cascade	reactome	reactome
+R-MMU-168138	Mus musculus: Toll Like Receptor 9 (TLR9) Cascade	reactome	reactome
+R-MMU-168179	Mus musculus: Toll Like Receptor TLR1:TLR2 Cascade	reactome	reactome
+R-MMU-168188	Mus musculus: Toll Like Receptor TLR6:TLR2 Cascade	reactome	reactome
+R-MMU-168898	Mus musculus: Toll-like Receptor Cascades	reactome	reactome
+R-MMU-1679131	Mus musculus: Trafficking and processing of endosomal TLR	reactome	reactome
+R-MMU-399719	Mus musculus: Trafficking of AMPA receptors	reactome	reactome
+R-MMU-416993	Mus musculus: Trafficking of GluR2-containing AMPA receptors	reactome	reactome
+R-MMU-5624138	Mus musculus: Trafficking of myristoylated proteins to the cilium	reactome	reactome
+R-MMU-75944	Mus musculus: Transcription from mitochondrial promoters	reactome	reactome
+R-MMU-6781827	Mus musculus: Transcription-Coupled Nucleotide Excision Repair (TC-NER)	reactome	reactome
+R-MMU-69895	Mus musculus: Transcriptional  activation of  cell cycle inhibitor p21 	reactome	reactome
+R-MMU-8953750	Mus musculus: Transcriptional Regulation by E2F6	reactome	reactome
+R-MMU-8986944	Mus musculus: Transcriptional Regulation by MECP2	reactome	reactome
+R-MMU-3700989	Mus musculus: Transcriptional Regulation by TP53	reactome	reactome
+R-MMU-2151201	Mus musculus: Transcriptional activation of mitochondrial biogenesis	reactome	reactome
+R-MMU-69560	Mus musculus: Transcriptional activation of p53 responsive genes  	reactome	reactome
+R-MMU-2173793	Mus musculus: Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	reactome	reactome
+R-MMU-8878171	Mus musculus: Transcriptional regulation by RUNX1	reactome	reactome
+R-MMU-8878166	Mus musculus: Transcriptional regulation by RUNX2	reactome	reactome
+R-MMU-8878159	Mus musculus: Transcriptional regulation by RUNX3	reactome	reactome
+R-MMU-5578749	Mus musculus: Transcriptional regulation by small RNAs	reactome	reactome
+R-MMU-8864260	Mus musculus: Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	reactome	reactome
+R-MMU-9616222	Mus musculus: Transcriptional regulation of granulopoiesis	reactome	reactome
+R-MMU-381340	Mus musculus: Transcriptional regulation of white adipocyte differentiation	reactome	reactome
+R-MMU-166020	Mus musculus: Transfer of LPS from LBP carrier to CD14	reactome	reactome
+R-MMU-917977	Mus musculus: Transferrin endocytosis and recycling	reactome	reactome
+R-MMU-72766	Mus musculus: Translation	reactome	reactome
+R-MMU-72649	Mus musculus: Translation initiation complex formation	reactome	reactome
+R-MMU-110320	Mus musculus: Translesion Synthesis by POLH	reactome	reactome
+R-MMU-5656121	Mus musculus: Translesion synthesis by POLI	reactome	reactome
+R-MMU-5655862	Mus musculus: Translesion synthesis by POLK	reactome	reactome
+R-MMU-110312	Mus musculus: Translesion synthesis by REV1	reactome	reactome
+R-MMU-110313	Mus musculus: Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	reactome	reactome
+R-MMU-202430	Mus musculus: Translocation of ZAP-70 to Immunological synapse	reactome	reactome
+R-MMU-112315	Mus musculus: Transmission across Chemical Synapses	reactome	reactome
+R-MMU-112307	Mus musculus: Transmission across Electrical Synapses 	reactome	reactome
+R-MMU-174362	Mus musculus: Transport and synthesis of PAPS	reactome	reactome
+R-MMU-72202	Mus musculus: Transport of Mature Transcript to Cytoplasm	reactome	reactome
+R-MMU-159231	Mus musculus: Transport of Mature mRNA Derived from an Intronless Transcript	reactome	reactome
+R-MMU-159236	Mus musculus: Transport of Mature mRNA derived from an Intron-Containing Transcript	reactome	reactome
+R-MMU-159234	Mus musculus: Transport of Mature mRNAs Derived from Intronless Transcripts	reactome	reactome
+R-MMU-425366	"Mus musculus: Transport of bile salts and organic acids, metal ions and amine compounds"	reactome	reactome
+R-MMU-190872	Mus musculus: Transport of connexons to the plasma membrane	reactome	reactome
+R-MMU-804914	Mus musculus: Transport of fatty acids	reactome	reactome
+R-MMU-159763	Mus musculus: Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus	reactome	reactome
+R-MMU-432030	Mus musculus: Transport of glycerol from adipocytes to the liver by Aquaporins	reactome	reactome
+R-MMU-425393	Mus musculus: Transport of inorganic cations/anions and amino acids/oligopeptides	reactome	reactome
+R-MMU-83936	Mus musculus: Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	reactome	reactome
+R-MMU-727802	Mus musculus: Transport of nucleotide sugars	reactome	reactome
+R-MMU-879518	Mus musculus: Transport of organic anions	reactome	reactome
+R-MMU-382551	Mus musculus: Transport of small molecules	reactome	reactome
+R-MMU-159230	Mus musculus: Transport of the SLBP Dependant Mature mRNA	reactome	reactome
+R-MMU-159227	Mus musculus: Transport of the SLBP independent Mature mRNA	reactome	reactome
+R-MMU-425397	"Mus musculus: Transport of vitamins, nucleosides, and related molecules"	reactome	reactome
+R-MMU-948021	Mus musculus: Transport to the Golgi and subsequent modification	reactome	reactome
+R-MMU-75109	Mus musculus: Triglyceride biosynthesis	reactome	reactome
+R-MMU-163560	Mus musculus: Triglyceride catabolism	reactome	reactome
+R-MMU-8979227	Mus musculus: Triglyceride metabolism	reactome	reactome
+R-MMU-450513	"Mus musculus: Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA"	reactome	reactome
+R-MMU-71240	Mus musculus: Tryptophan catabolism	reactome	reactome
+R-MMU-446107	Mus musculus: Type I hemidesmosome assembly	reactome	reactome
+R-MMU-427589	Mus musculus: Type II Na+/Pi cotransporters	reactome	reactome
+R-MMU-8963684	Mus musculus: Tyrosine catabolism	reactome	reactome
+R-MMU-5689603	Mus musculus: UCH proteinases	reactome	reactome
+R-MMU-5689880	Mus musculus: Ub-specific processing proteases	reactome	reactome
+R-MMU-2142789	Mus musculus: Ubiquinol biosynthesis	reactome	reactome
+R-MMU-69601	Mus musculus: Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	reactome	reactome
+R-MMU-75815	Mus musculus: Ubiquitin-dependent degradation of Cyclin D	reactome	reactome
+R-MMU-438066	"Mus musculus: Unblocking of NMDA receptors, glutamate binding and activation"	reactome	reactome
+R-MMU-381119	Mus musculus: Unfolded Protein Response (UPR)	reactome	reactome
+R-MMU-176974	Mus musculus: Unwinding of DNA	reactome	reactome
+R-MMU-70635	Mus musculus: Urea cycle	reactome	reactome
+R-MMU-77108	Mus musculus: Utilization of Ketone Bodies	reactome	reactome
+R-MMU-195399	Mus musculus: VEGF binds to VEGFR leading to receptor dimerization	reactome	reactome
+R-MMU-194313	Mus musculus: VEGF ligand-receptor interactions	reactome	reactome
+R-MMU-4420097	Mus musculus: VEGFA-VEGFR2 Pathway	reactome	reactome
+R-MMU-5218921	Mus musculus: VEGFR2 mediated cell proliferation	reactome	reactome
+R-MMU-5218920	Mus musculus: VEGFR2 mediated vascular permeability	reactome	reactome
+R-MMU-8866423	Mus musculus: VLDL assembly	reactome	reactome
+R-MMU-8964046	Mus musculus: VLDL clearance	reactome	reactome
+R-MMU-8866427	Mus musculus: VLDLR internalisation and degradation	reactome	reactome
+R-MMU-432040	Mus musculus: Vasopressin regulates renal water homeostasis via Aquaporins	reactome	reactome
+R-MMU-388479	Mus musculus: Vasopressin-like receptors	reactome	reactome
+R-MMU-5653656	Mus musculus: Vesicle-mediated transport	reactome	reactome
+R-MMU-2187338	Mus musculus: Visual phototransduction	reactome	reactome
+R-MMU-196819	Mus musculus: Vitamin B1 (thiamin) metabolism	reactome	reactome
+R-MMU-196843	Mus musculus: Vitamin B2 (riboflavin) metabolism	reactome	reactome
+R-MMU-199220	Mus musculus: Vitamin B5 (pantothenate) metabolism	reactome	reactome
+R-MMU-196836	Mus musculus: Vitamin C (ascorbate) metabolism	reactome	reactome
+R-MMU-196791	Mus musculus: Vitamin D (calciferol) metabolism	reactome	reactome
+R-MMU-8877627	Mus musculus: Vitamin E	reactome	reactome
+R-MMU-211916	Mus musculus: Vitamins	reactome	reactome
+R-MMU-964975	Mus musculus: Vitamins B6 activation to pyridoxal phosphate	reactome	reactome
+R-MMU-1296072	Mus musculus: Voltage gated Potassium channels	reactome	reactome
+R-MMU-5620916	Mus musculus: VxPx cargo-targeting to cilium	reactome	reactome
+R-MMU-3238698	Mus musculus: WNT ligand biogenesis and trafficking	reactome	reactome
+R-MMU-201688	Mus musculus: WNT mediated activation of DVL	reactome	reactome
+R-MMU-5140745	"Mus musculus: WNT5A-dependent internalization of FZD2, FZD5 and ROR2"	reactome	reactome
+R-MMU-5099900	Mus musculus: WNT5A-dependent internalization of FZD4	reactome	reactome
+R-MMU-8848584	Mus musculus: Wax and plasmalogen biosynthesis	reactome	reactome
+R-MMU-9640463	Mus musculus: Wax biosynthesis	reactome	reactome
+R-MMU-211981	Mus musculus: Xenobiotics	reactome	reactome
+R-MMU-2032785	Mus musculus: YAP1- and WWTR1 (TAZ)-stimulated gene expression	reactome	reactome
+R-MMU-1606322	Mus musculus: ZBP1(DAI) mediated induction of type I IFNs	reactome	reactome
+R-MMU-435368	Mus musculus: Zinc efflux and compartmentalization by the SLC30 family	reactome	reactome
+R-MMU-442380	Mus musculus: Zinc influx into cells by the SLC39 gene family	reactome	reactome
+R-MMU-435354	Mus musculus: Zinc transporters	reactome	reactome
+R-MMU-450302	Mus musculus: activated TAK1 mediates p38 MAPK activation	reactome	reactome
+R-MMU-2046104	Mus musculus: alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	reactome	reactome
+R-MMU-2046106	Mus musculus: alpha-linolenic acid (ALA) metabolism	reactome	reactome
+R-MMU-1307965	Mus musculus: betaKlotho-mediated ligand binding	reactome	reactome
+R-MMU-418457	Mus musculus: cGMP effects	reactome	reactome
+R-MMU-203615	Mus musculus: eNOS activation	reactome	reactome
+R-MMU-72187	Mus musculus: mRNA 3'-end processing	reactome	reactome
+R-MMU-72086	Mus musculus: mRNA Capping	reactome	reactome
+R-MMU-75072	Mus musculus: mRNA Editing	reactome	reactome
+R-MMU-75064	Mus musculus: mRNA Editing: A to I Conversion	reactome	reactome
+R-MMU-72200	Mus musculus: mRNA Editing: C to U Conversion	reactome	reactome
+R-MMU-72172	Mus musculus: mRNA Splicing	reactome	reactome
+R-MMU-72163	Mus musculus: mRNA Splicing - Major Pathway	reactome	reactome
+R-MMU-72165	Mus musculus: mRNA Splicing - Minor Pathway	reactome	reactome
+R-MMU-429958	Mus musculus: mRNA decay by 3' to 5' exoribonuclease	reactome	reactome
+R-MMU-430039	Mus musculus: mRNA decay by 5' to 3' exoribonuclease	reactome	reactome
+R-MMU-165159	Mus musculus: mTOR signalling	reactome	reactome
+R-MMU-166208	Mus musculus: mTORC1-mediated signalling	reactome	reactome
+R-MMU-77286	Mus musculus: mitochondrial fatty acid beta-oxidation of saturated fatty acids	reactome	reactome
+R-MMU-77288	Mus musculus: mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	reactome	reactome
+R-MMU-372708	Mus musculus: p130Cas linkage to MAPK signaling for integrins	reactome	reactome
+R-MMU-171007	Mus musculus: p38MAPK events	reactome	reactome
+R-MMU-69563	Mus musculus: p53-Dependent G1 DNA Damage Response	reactome	reactome
+R-MMU-69580	Mus musculus: p53-Dependent G1/S DNA damage checkpoint	reactome	reactome
+R-MMU-69610	Mus musculus: p53-Independent DNA Damage Response	reactome	reactome
+R-MMU-69613	Mus musculus: p53-Independent G1/S DNA damage checkpoint	reactome	reactome
+R-MMU-193704	Mus musculus: p75 NTR receptor-mediated signalling	reactome	reactome
+R-MMU-209543	Mus musculus: p75NTR recruits signalling complexes	reactome	reactome
+R-MMU-193697	Mus musculus: p75NTR regulates axonogenesis	reactome	reactome
+R-MMU-193639	Mus musculus: p75NTR signals via NF-kB	reactome	reactome
+R-MMU-111995	Mus musculus: phospho-PLA2 pathway	reactome	reactome
+R-MMU-72312	Mus musculus: rRNA processing	reactome	reactome
+R-MMU-8868773	Mus musculus: rRNA processing in the nucleus and cytosol	reactome	reactome
+R-MMU-191859	Mus musculus: snRNP Assembly	reactome	reactome
+R-MMU-379724	Mus musculus: tRNA Aminoacylation	reactome	reactome
+R-MMU-199992	Mus musculus: trans-Golgi Network Vesicle Budding	reactome	reactome
