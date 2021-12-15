@@ -15,9 +15,9 @@ CellCallEXT extended R package for cellcall, with large databases and enabling t
 To install this package, start R (version 3.6 or higher) and enter:
 ```
 library(devtools)
-devtools::install_github("ShellyCoder/cellcall")
+devtools::install_github("shouguog/cellcallEXT")
 ```
-If you encounter the following error -- ERROR: dependency is not available for package 'cellcall', install corresponding R package. And appropriate version is in the section 4.<br />
+If you encounter the following error -- ERROR: dependency is not available for package 'cellcallEXT', install corresponding R package. And appropriate version is in the section 4.<br />
 
 <a name="689d6784"></a>
 ## 2. Main functions of CellCall
