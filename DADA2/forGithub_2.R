@@ -15,7 +15,7 @@ status<-rep("CASE", dim(metaData)[1]);status[metaData$status=="HD"]<-"CONTROL"
 
 colnames(normalizedCounts)<-paste0(metaData$CD48MonoLarge, "_celltype_", colnames(normalizedCounts))
 mt <- CreateNichConObject(data=normalizedCounts, min.feature = 3,names.field = 1,names.delim = "_",
-                          source = "UMI", scale.factor = 10^6, Org = "Homo sapiens",project = "Microenvironment",status = status,
+                          source = "CPM", scale.factor = 10^6, Org = "Homo sapiens",project = "Microenvironment",status = status,
                           expDirection = "BOTH")
 mt <- TransCommuProfile(object = mt,pValueCor = 0.05,CorValue = 0.05,topTargetCor=1,p.adjust = 0.1,
                         use.type="mean",method="weighted",IS_core = TRUE,Org = 'Homo sapiens')
