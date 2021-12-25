@@ -20,8 +20,13 @@ devtools::install_github("shouguog/cellcallEXT")
 If you encounter the following error -- ERROR: dependency is not available for package 'cellcallEXT', install corresponding R package. And appropriate version is in the section 4.<br />
 
 <a name="689d6784"></a>
-## 2. Main functions of CellCall
-CellCall provides a variety of functions including intercellular communication analysis, pathway activity analysis and a rich suite of visualization tools to intuitively present the results of the analysis (including Heatmap, Circos plot, Bubble plot, Sankey plot, TF enrichment plot and Ridge plot).<br />
+## 2. Main functions of CellCallExt
+
+<p align="center">
+  <img src='https://raw.githubusercontent.com/shouguog/CellCallEXT/master/figures/flow.jpg'>
+</p>
+
+**Figure 1.** Model and algorithms. (A) Cell1 and Cell2 communicate through two L-R pairs from Cell2 to Cell1 and one L-R pair from Cell1 to Cell2. Binding of ligand on receptor trigger gene expression changes through intermediate genes and transcriptional factors. (B) Biological diagram to signal transduction from ligand to target genes. (C) Statis-tical concepts for cellular communications. Three contributions are considered: ligand expression in sender cells, receptor expression in receiver cells and TF activities in receiver cells.
 
 <a name="LP04w"></a>
 ### 2.1 Intercellular communication analysis
