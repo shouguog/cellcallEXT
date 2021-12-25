@@ -43,9 +43,9 @@ The format of the input file is as follow table:<br />1. The row names: gene sym
 | DPM1 | 0.000 | 0.000 | 21.498 | 4.246 | 7.382 | 0.000 | 2.385 |
 | SCYL3 | 5.983 | 1.215 | 0.000 | 0.518 | 2.386 | 4.002 | 14.792 |
 
-This instruction may take the in-house dataset included in the package as an example. User can load the dataset with command following in the code box. There are 366 single cells and 35,135 genes that were performed with the scRNA sequencing.
+This instruction may take the in-house dataset included in the package as an example. User can load the dataset with command following in the code box. There are 366 single cells and 35,135 genes that were performed with the scRNA sequencing. We use this dataset as a demo, by randomly assigning CASE and CONTROL groups.
 ```r
-f.tmp <- system.file("extdata", "example_Data.Rdata", package="cellcallEXT")
+f.tmp <- system.file("extdata", "example_Data.Rdata", package="cellcall")
 load(f.tmp)
 
 ## gene expression stored in the variable in.content
