@@ -23,7 +23,7 @@ If you encounter the following error -- ERROR: dependency is not available for p
 ## 2. Main functions of CellCallExt
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/shouguog/CellCallEXT/master/figures/flow.jpg'>
+  <img src='https://raw.githubusercontent.com/shouguog/CellCallEXT/master/figures/flow_v1.jpg'>
 </p>
 
 **Figure 1.** Model and algorithms. (A) Cell1 and Cell2 communicate through two L-R pairs from Cell2 to Cell1 and one L-R pair from Cell1 to Cell2. Binding of ligand on receptor trigger gene expression changes through intermediate genes and transcriptional factors. (B) Biological diagram to signal transduction from ligand to target genes. (C) Statis-tical concepts for cellular communications. Three contributions are considered: ligand expression in sender cells, receptor expression in receiver cells and TF activities in receiver cells.
