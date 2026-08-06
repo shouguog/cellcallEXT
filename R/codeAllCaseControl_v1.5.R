@@ -1052,7 +1052,7 @@ LR2TF <- function(object, sender_cell, recevier_cell, slot="expr_l_r_log2_scale"
   }
   
   interest_group <- myData[,paste(sender_cell, recevier_cell, sep = "-"), drop=F]
-  interest_df <- interest_group[order(interest_group,decreasing = T),,drop=F]
+  interest_df <- interest_group[order(interest_group[,1], decreasing = T),,drop=F]
   interest_df <- interest_df[which(interest_df[,1]!=0),,drop=F]
   
   # library(stringr)
